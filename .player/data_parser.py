@@ -1,5 +1,6 @@
 #! /usr/bin/env python
-DATA_FILE = 'data.txt'
+import os
+DATA_FILE = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data.txt')
 
 
 def _parse(data_file):
