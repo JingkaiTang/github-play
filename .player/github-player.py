@@ -2,7 +2,11 @@
 
 import os
 import random
+import datetime
+import sys
 from data_parser import data_parse
+
+
 
 words_dict = data_parse()
 rc = lambda l: lambda: random.choice(l)
@@ -65,7 +69,11 @@ def randmsg(files):
         noun=nouns()
     )
 
+
 if __name__ == '__main__':
     #write2file(gen_code(), 'test.py')
     #git(['test.py'], 'mix: for test, again')
+    arg_dt_from = sys.args[1]
+    arg_dt_to = sys.args[2]
+    arg_frq = sys.args[3]
     print(randmsg(['test.py', 'hello.py']))
