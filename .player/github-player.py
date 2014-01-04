@@ -6,6 +6,7 @@ import datetime
 import sys
 from data_parser import data_parse
 
+MAX_FILE_DEPTH = 5
 words_dict = data_parse()
 rc = lambda l: lambda: random.choice(l)
 rc_words = lambda key: rc(words_dict[key])
@@ -21,9 +22,17 @@ ifrand = lambda: random.choice([True, False])
 def gen_code():
     return r'''
 #! /usr/bin/env python
+
+def {f0}(str_arg):
+    {f1}(str_arg)
+    print('{s0}')
+
+def {f1}(str_arg):
+    print(str_arg)
+
 if __name__ == '__main__':
-    print("hello")
-'''
+    {f0}('{s1}')
+'''.fromat(f0=randstr(), f1=randstr(), s0=randstr(), s1=randstr())
 
 
 def write2file(raw_code, file_name):
@@ -70,6 +79,14 @@ def randstr():
     return name_wrap(verbs(), randnoun(), preps(), randnoun())
 
 
+def randfile():
+    depth = random.randint(0, MAX_FILE_DEPTH)
+    fn = randstr() + '.py'
+    for i in range(depth):
+        fn = os.path.join(randstr(), fn)
+    return fn
+
+
 if __name__ == '__main__':
     #write2file(gen_code(), 'test.py')
     #git(['test.py'], 'mix: for test, again')
@@ -79,3 +96,6 @@ if __name__ == '__main__':
     print(randmsg(['test.py', 'hello.py']))
     print(randstr())
     print(randstr())
+    print(randfile())
+    print(randfile())
+    print(randfile())
