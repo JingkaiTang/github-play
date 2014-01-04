@@ -34,3 +34,8 @@ def git(files, msg):
 def mod_date(dt):
     cmd = cmd_wrap('sudo date -s', str_wrap(dt))
     os.system(cmd)
+
+# mkdir
+def mkdir(dir_name):
+    cmd = cmd_wrap('mkdir -p', dir_name)
+    

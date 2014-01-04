@@ -50,7 +50,7 @@ def randmsg(files):
 if __name__ == '__main__':
     #write2file(gen_code(), 'test.py')
     #git(['test.py'], 'mix: for test, again')
-    arg_dt_from = sys.args[1]
-    arg_dt_to = sys.args[2]
-    arg_frq = sys.args[3]
+    arg_dt_from = sys.argv[1]
+    arg_dt_to = sys.argv[2]
+    arg_frq = sys.argv[3]
     print(randmsg(['test.py', 'hello.py']))
