@@ -6,8 +6,6 @@ import datetime
 import sys
 from data_parser import data_parse
 
-
-
 words_dict = data_parse()
 rc = lambda l: lambda: random.choice(l)
 rc_words = lambda key: rc(words_dict[key])
@@ -17,6 +15,7 @@ nouns = rc_words('nouns')
 adjs = rc_words('adjs')
 conjs = rc_words('conjs')
 preps = rc_words('preps')
+ifrand = lambda: random.choice([True, False])
 
 
 def gen_code():
@@ -47,6 +46,30 @@ def randmsg(files):
     )
 
 
+def name_wrap(*args):
+    return '_'.join(args)
+
+
+def randnoun():
+    if ifrand():
+        return nouns()
+
+    return name_wrap(adjs(), nouns())
+
+
+def randstr():
+    if ifrand():
+        return randnoun()
+
+    if ifrand():
+        return name_wrap(randnoun(), conjs(), randnoun())
+
+    if ifrand():
+        return name_wrap(verbs(), randnoun())
+
+    return name_wrap(verbs(), randnoun(), preps(), randnoun())
+
+
 if __name__ == '__main__':
     #write2file(gen_code(), 'test.py')
     #git(['test.py'], 'mix: for test, again')
@@ -54,3 +77,5 @@ if __name__ == '__main__':
     arg_dt_to = sys.argv[2]
     arg_frq = sys.argv[3]
     print(randmsg(['test.py', 'hello.py']))
+    print(randstr())
+    print(randstr())
