@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def bad_thing(str_arg):
-    know_good_time_under_new_work(str_arg)
-    print('bad_woman_or_world')
+def new_hand(str_arg):
+    make_fact_for_place(str_arg)
+    print('get_thing_above_part')
 
-def know_good_time_under_new_work(str_arg):
+def make_fact_for_place(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    bad_thing('company_or_man')
+    new_hand('big_place')
