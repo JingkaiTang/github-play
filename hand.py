@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def important_way_and_fact(str_arg):
-    able_point(str_arg)
-    print('go_bad_problem')
+def know_good_week(str_arg):
+    early_hand_and_large_child(str_arg)
+    print('bad_world')
 
-def able_point(str_arg):
+def early_hand_and_large_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    important_way_and_fact('bad_hand')
+    know_good_week('make_next_world_beneath_group')
