@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def hand(str_arg):
-    public_fact(str_arg)
-    print('public_group')
+def other_work(str_arg):
+    want_place(str_arg)
+    print('public_work_or_important_thing')
 
-def public_fact(str_arg):
+def want_place(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    hand('old_number')
+    other_work('government')
