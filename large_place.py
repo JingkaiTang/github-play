@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def thing(str_arg):
-    way(str_arg)
-    print('be_case_with_number')
+def woman(str_arg):
+    say_few_time_into_case(str_arg)
+    print('feel_different_way')
 
-def way(str_arg):
+def say_few_time_into_case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    thing('have_part_over_big_group')
+    woman('young_problem_and_big_place')
