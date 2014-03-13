@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def year(str_arg):
-    week(str_arg)
-    print('large_person')
+def own_eye_and_week(str_arg):
+    first_part(str_arg)
+    print('last_government')
 
-def week(str_arg):
+def first_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    year('old_work_and_time')
+    own_eye_and_week('hand_and_public_work')
