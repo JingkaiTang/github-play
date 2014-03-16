@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def bad_group(str_arg):
-    fact_or_long_year(str_arg)
-    print('bad_company')
+def great_way_and_group(str_arg):
+    government_and_thing(str_arg)
+    print('work_early_man')
 
-def fact_or_long_year(str_arg):
+def government_and_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    bad_group('ask_last_problem_in_number')
+    great_way_and_group('world')
