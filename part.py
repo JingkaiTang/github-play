@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def bad_week_and_different_world(str_arg):
-    life(str_arg)
-    print('hand_and_woman')
+def hand(str_arg):
+    world(str_arg)
+    print('little_point')
 
-def life(str_arg):
+def world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    bad_week_and_different_world('able_case_and_person')
+    hand('child')
