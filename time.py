@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def new_hand(str_arg):
-    make_fact_for_place(str_arg)
-    print('get_thing_above_part')
+def new_week(str_arg):
+    find_group_beneath_case(str_arg)
+    print('problem')
 
-def make_fact_for_place(str_arg):
+def find_group_beneath_case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    new_hand('big_place')
+    new_week('other_life')
