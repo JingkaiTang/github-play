@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def leave_number_from_part(str_arg):
-    group(str_arg)
-    print('go_important_woman_under_week')
+def next_hand(str_arg):
+    child(str_arg)
+    print('small_fact_or_great_way')
 
-def group(str_arg):
+def child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    leave_number_from_part('person_or_bad_work')
+    next_hand('new_point_and_little_government')
