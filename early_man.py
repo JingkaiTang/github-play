@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def large_time_or_eye(str_arg):
-    leave_week(str_arg)
-    print('bad_fact_and_small_way')
+def have_right_point_above_few_case(str_arg):
+    time_and_great_government(str_arg)
+    print('take_thing')
 
-def leave_week(str_arg):
+def time_and_great_government(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    large_time_or_eye('time')
+    have_right_point_above_few_case('new_fact')
