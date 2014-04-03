@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def other_work(str_arg):
-    want_place(str_arg)
-    print('public_work_or_important_thing')
+def last_work_or_old_fact(str_arg):
+    have_early_number_up_first_number(str_arg)
+    print('high_week_and_long_woman')
 
-def want_place(str_arg):
+def have_early_number_up_first_number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    other_work('government')
+    last_work_or_old_fact('few_person')
