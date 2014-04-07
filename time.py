@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def new_week(str_arg):
-    find_group_beneath_case(str_arg)
-    print('problem')
+def government(str_arg):
+    old_time(str_arg)
+    print('last_thing_or_big_work')
 
-def find_group_beneath_case(str_arg):
+def old_time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    new_week('other_life')
+    government('year')
