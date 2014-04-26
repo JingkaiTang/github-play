@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def point_and_small_company(str_arg):
-    young_case_or_part(str_arg)
-    print('give_big_woman_of_good_problem')
+def work_and_young_week(str_arg):
+    own_problem(str_arg)
+    print('problem')
 
-def young_case_or_part(str_arg):
+def own_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    point_and_small_company('other_day')
+    work_and_young_week('same_child_or_time')
