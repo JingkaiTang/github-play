@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def group(str_arg):
-    feel_last_time_in_company(str_arg)
-    print('new_man')
+def year(str_arg):
+    think_small_week_to_day(str_arg)
+    print('time')
 
-def feel_last_time_in_company(str_arg):
+def think_small_week_to_day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    group('way')
+    year('first_time')
