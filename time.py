@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def take_child(str_arg):
-    great_eye(str_arg)
-    print('want_man')
+def bad_point(str_arg):
+    big_thing_or_person(str_arg)
+    print('fact_or_last_eye')
 
-def great_eye(str_arg):
+def big_thing_or_person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    take_child('come_last_fact')
+    bad_point('great_way')
