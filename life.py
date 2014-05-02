@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def next_world(str_arg):
-    problem_or_big_person(str_arg)
-    print('call_time')
+def thing_or_other_child(str_arg):
+    big_group_or_child(str_arg)
+    print('come_few_child_with_small_life')
 
-def problem_or_big_person(str_arg):
+def big_group_or_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    next_world('want_person_from_child')
+    thing_or_other_child('life')
