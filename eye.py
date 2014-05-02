@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def own_eye_and_week(str_arg):
-    first_part(str_arg)
-    print('last_government')
+def government_and_long_time(str_arg):
+    woman_and_different_child(str_arg)
+    print('eye')
 
-def first_part(str_arg):
+def woman_and_different_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    own_eye_and_week('hand_and_public_work')
+    government_and_long_time('good_world')
