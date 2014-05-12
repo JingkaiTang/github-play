@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def bad_point(str_arg):
-    big_thing_or_person(str_arg)
-    print('fact_or_last_eye')
+def child(str_arg):
+    tell_thing_in_little_person(str_arg)
+    print('able_person_or_fact')
 
-def big_thing_or_person(str_arg):
+def tell_thing_in_little_person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    bad_point('great_way')
+    child('great_part_and_point')
