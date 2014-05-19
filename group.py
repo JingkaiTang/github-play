@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def leave_time_into_number(str_arg):
-    day(str_arg)
-    print('next_week')
+def call_case(str_arg):
+    important_fact_and_other_person(str_arg)
+    print('great_point_or_young_company')
 
-def day(str_arg):
+def important_fact_and_other_person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    leave_time_into_number('time_and_man')
+    call_case('week_and_little_group')
