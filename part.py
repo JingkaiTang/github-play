@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def hand(str_arg):
-    world(str_arg)
-    print('little_point')
+def man(str_arg):
+    good_week(str_arg)
+    print('child')
 
-def world(str_arg):
+def good_week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    hand('child')
+    man('group_and_right_person')
