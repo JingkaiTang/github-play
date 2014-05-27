@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def be_day_under_day(str_arg):
-    come_big_person_under_time(str_arg)
-    print('use_work_above_way')
+def say_case_at_old_number(str_arg):
+    tell_day(str_arg)
+    print('man')
 
-def come_big_person_under_time(str_arg):
+def tell_day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    be_day_under_day('high_way')
+    say_case_at_old_number('fact_and_hand')
