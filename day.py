@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def say_last_work(str_arg):
-    last_point_or_thing(str_arg)
-    print('time')
+def thing(str_arg):
+    think_good_life(str_arg)
+    print('woman')
 
-def last_point_or_thing(str_arg):
+def think_good_life(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    say_last_work('place')
+    thing('public_time_or_day')
