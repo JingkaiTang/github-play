@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def thing(str_arg):
-    number(str_arg)
-    print('week')
+def point(str_arg):
+    government(str_arg)
+    print('government')
 
-def number(str_arg):
+def government(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    thing('public_man')
+    point('next_number')
