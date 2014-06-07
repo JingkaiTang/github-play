@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def government_and_long_time(str_arg):
-    woman_and_different_child(str_arg)
-    print('eye')
+def seem_day_with_problem(str_arg):
+    person_and_person(str_arg)
+    print('thing')
 
-def woman_and_different_child(str_arg):
+def person_and_person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    government_and_long_time('good_world')
+    seem_day_with_problem('number')
