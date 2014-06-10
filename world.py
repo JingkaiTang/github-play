@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def work_and_young_week(str_arg):
-    own_problem(str_arg)
-    print('problem')
+def high_time(str_arg):
+    last_eye(str_arg)
+    print('call_first_life_on_other_man')
 
-def own_problem(str_arg):
+def last_eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    work_and_young_week('same_child_or_time')
+    high_time('thing')
