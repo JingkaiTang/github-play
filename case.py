@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def year(str_arg):
-    think_small_week_to_day(str_arg)
-    print('time')
+def person_and_young_week(str_arg):
+    long_eye(str_arg)
+    print('tell_eye')
 
-def think_small_week_to_day(str_arg):
+def long_eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    year('first_time')
+    person_and_young_week('thing')
