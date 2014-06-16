@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def great_way_and_group(str_arg):
-    government_and_thing(str_arg)
-    print('work_early_man')
+def different_life_and_little_way(str_arg):
+    company(str_arg)
+    print('ask_case_beneath_bad_hand')
 
-def government_and_thing(str_arg):
+def company(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    great_way_and_group('world')
+    different_life_and_little_way('hand')
