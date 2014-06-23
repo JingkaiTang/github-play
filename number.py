@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def good_fact(str_arg):
-    old_time(str_arg)
-    print('important_case')
+def small_work(str_arg):
+    same_place(str_arg)
+    print('use_person_under_good_company')
 
-def old_time(str_arg):
+def same_place(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    good_fact('old_fact')
+    small_work('day')
