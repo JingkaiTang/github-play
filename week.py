@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def last_work_or_old_fact(str_arg):
-    have_early_number_up_first_number(str_arg)
-    print('high_week_and_long_woman')
+def thing_or_fact(str_arg):
+    own_man(str_arg)
+    print('same_week_or_problem')
 
-def have_early_number_up_first_number(str_arg):
+def own_man(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    last_work_or_old_fact('few_person')
+    thing_or_fact('high_number_or_group')
