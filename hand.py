@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def know_good_week(str_arg):
-    early_hand_and_large_child(str_arg)
-    print('bad_world')
+def leave_time_about_week(str_arg):
+    find_new_thing(str_arg)
+    print('bad_year_and_large_time')
 
-def early_hand_and_large_child(str_arg):
+def find_new_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    know_good_week('make_next_world_beneath_group')
+    leave_time_about_week('first_child')
