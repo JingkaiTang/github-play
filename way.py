@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def find_life(str_arg):
-    life(str_arg)
-    print('life')
+def world(str_arg):
+    world(str_arg)
+    print('make_fact_by_company')
 
-def life(str_arg):
+def world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    find_life('early_man')
+    world('take_time_beneath_different_number')
