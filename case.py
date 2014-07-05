@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def person_and_young_week(str_arg):
-    long_eye(str_arg)
-    print('tell_eye')
+def day_or_year(str_arg):
+    think_way(str_arg)
+    print('different_point')
 
-def long_eye(str_arg):
+def think_way(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    person_and_young_week('thing')
+    day_or_year('try_few_case_with_next_point')
