@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def week(str_arg):
-    want_government(str_arg)
-    print('group')
+def group_and_little_woman(str_arg):
+    big_group(str_arg)
+    print('able_child')
 
-def want_government(str_arg):
+def big_group(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    week('able_work')
+    group_and_little_woman('new_fact_and_government')
