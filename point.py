@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def use_group(str_arg):
-    important_number_and_great_number(str_arg)
-    print('group')
+def next_number_and_different_fact(str_arg):
+    important_man_and_small_problem(str_arg)
+    print('think_person_from_week')
 
-def important_number_and_great_number(str_arg):
+def important_man_and_small_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    use_group('feel_high_place')
+    next_number_and_different_fact('thing')
