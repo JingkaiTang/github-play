@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def little_group_and_thing(str_arg):
-    woman(str_arg)
-    print('public_problem_and_man')
+def look_first_way(str_arg):
+    number(str_arg)
+    print('able_number_or_few_child')
 
-def woman(str_arg):
+def number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    little_group_and_thing('next_number')
+    look_first_way('good_group_and_small_place')
