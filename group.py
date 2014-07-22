@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def way(str_arg):
-    great_life_or_bad_thing(str_arg)
-    print('first_woman')
+def man(str_arg):
+    time_and_next_time(str_arg)
+    print('great_government')
 
-def great_life_or_bad_thing(str_arg):
+def time_and_next_time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    way('small_woman')
+    man('problem')
