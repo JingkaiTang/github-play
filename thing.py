@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def look_first_way(str_arg):
-    number(str_arg)
-    print('able_number_or_few_child')
+def government(str_arg):
+    part_and_important_time(str_arg)
+    print('high_week_or_way')
 
-def number(str_arg):
+def part_and_important_time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    look_first_way('good_group_and_small_place')
+    government('give_first_year')
