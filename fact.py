@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def way(str_arg):
-    important_group(str_arg)
-    print('next_man')
+def point(str_arg):
+    next_case(str_arg)
+    print('seem_case')
 
-def important_group(str_arg):
+def next_case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    way('feel_same_man_over_large_government')
+    point('government')
