@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def child(str_arg):
-    own_problem(str_arg)
-    print('group')
+def own_thing(str_arg):
+    do_great_life(str_arg)
+    print('world_and_group')
 
-def own_problem(str_arg):
+def do_great_life(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    child('group')
+    own_thing('world_and_time')
