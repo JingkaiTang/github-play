@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def have_part(str_arg):
-    small_day(str_arg)
-    print('week')
+def young_problem_and_little_time(str_arg):
+    big_problem(str_arg)
+    print('group')
 
-def small_day(str_arg):
+def big_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    have_part('place')
+    young_problem_and_little_time('important_fact')
