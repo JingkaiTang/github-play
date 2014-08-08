@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def seem_day_with_problem(str_arg):
-    person_and_person(str_arg)
-    print('thing')
+def place(str_arg):
+    long_problem_or_last_case(str_arg)
+    print('point')
 
-def person_and_person(str_arg):
+def long_problem_or_last_case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    seem_day_with_problem('number')
+    place('point')
