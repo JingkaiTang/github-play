@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def big_hand(str_arg):
-    new_thing(str_arg)
-    print('fact')
+def few_part_and_last_fact(str_arg):
+    use_week_on_problem(str_arg)
+    print('be_week')
 
-def new_thing(str_arg):
+def use_week_on_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    big_hand('long_life')
+    few_part_and_last_fact('case')
