@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def be_part(str_arg):
-    feel_able_person(str_arg)
-    print('use_good_woman_into_way')
+def life_and_able_child(str_arg):
+    great_day(str_arg)
+    print('be_first_world')
 
-def feel_able_person(str_arg):
+def great_day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    be_part('good_work_or_own_life')
+    life_and_able_child('other_problem')
