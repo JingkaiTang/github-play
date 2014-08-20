@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def group_and_little_woman(str_arg):
-    big_group(str_arg)
-    print('able_child')
+def public_government(str_arg):
+    time(str_arg)
+    print('good_problem_and_child')
 
-def big_group(str_arg):
+def time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    group_and_little_woman('new_fact_and_government')
+    public_government('leave_early_case_of_number')
