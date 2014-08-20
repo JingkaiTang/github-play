@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def man(str_arg):
-    good_week(str_arg)
-    print('child')
+def see_case(str_arg):
+    important_problem_or_group(str_arg)
+    print('take_great_year_after_last_day')
 
-def good_week(str_arg):
+def important_problem_or_group(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    man('group_and_right_person')
+    see_case('work')
