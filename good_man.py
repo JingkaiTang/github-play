@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def first_man(str_arg):
-    group(str_arg)
-    print('good_part')
+def long_hand_or_time(str_arg):
+    big_week_and_great_year(str_arg)
+    print('life_or_case')
 
-def group(str_arg):
+def big_week_and_great_year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    first_man('point')
+    long_hand_or_time('leave_thing_about_way')
