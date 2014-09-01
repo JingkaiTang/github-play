@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def man(str_arg):
-    time_and_next_time(str_arg)
-    print('great_government')
+def young_eye(str_arg):
+    child_or_thing(str_arg)
+    print('have_life_into_good_year')
 
-def time_and_next_time(str_arg):
+def child_or_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    man('problem')
+    young_eye('day')
