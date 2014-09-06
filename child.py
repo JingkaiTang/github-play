@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def know_eye(str_arg):
-    problem(str_arg)
-    print('fact')
+def own_problem_or_long_person(str_arg):
+    time(str_arg)
+    print('company')
 
-def problem(str_arg):
+def time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    know_eye('give_important_number_beneath_other_company')
+    own_problem_or_long_person('other_place')
