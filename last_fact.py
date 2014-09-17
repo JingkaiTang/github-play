@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def small_company(str_arg):
-    call_own_group(str_arg)
-    print('public_work')
+def try_week_on_early_man(str_arg):
+    say_same_problem_on_thing(str_arg)
+    print('man')
 
-def call_own_group(str_arg):
+def say_same_problem_on_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    small_company('time')
+    try_week_on_early_man('part')
