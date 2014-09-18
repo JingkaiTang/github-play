@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def few_man(str_arg):
-    old_eye(str_arg)
-    print('little_place')
+def be_different_company(str_arg):
+    bad_part(str_arg)
+    print('good_eye')
 
-def old_eye(str_arg):
+def bad_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    few_man('case')
+    be_different_company('have_small_person_about_part')
