@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def few_part_and_last_fact(str_arg):
-    use_week_on_problem(str_arg)
-    print('be_week')
+def week(str_arg):
+    child_or_great_man(str_arg)
+    print('man')
 
-def use_week_on_problem(str_arg):
+def child_or_great_man(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    few_part_and_last_fact('case')
+    week('call_thing_beneath_world')
