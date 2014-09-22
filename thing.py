@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def government(str_arg):
-    part_and_important_time(str_arg)
-    print('high_week_or_way')
+def leave_good_week_of_big_woman(str_arg):
+    few_company(str_arg)
+    print('group')
 
-def part_and_important_time(str_arg):
+def few_company(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    government('give_first_year')
+    leave_good_week_of_big_woman('case')
