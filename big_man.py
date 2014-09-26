@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def same_way_and_large_part(str_arg):
-    problem(str_arg)
-    print('woman_and_old_hand')
+def seem_right_year(str_arg):
+    ask_work(str_arg)
+    print('hand_or_different_group')
 
-def problem(str_arg):
+def ask_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    same_way_and_large_part('see_last_child')
+    seem_right_year('other_woman_and_young_thing')
