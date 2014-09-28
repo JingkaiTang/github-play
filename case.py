@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def day_or_year(str_arg):
-    think_way(str_arg)
-    print('different_point')
+def leave_next_place_into_high_week(str_arg):
+    day(str_arg)
+    print('get_week_of_bad_way')
 
-def think_way(str_arg):
+def day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    day_or_year('try_few_case_with_next_point')
+    leave_next_place_into_high_week('first_work')
