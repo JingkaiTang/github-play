@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def see_case(str_arg):
-    important_problem_or_group(str_arg)
-    print('take_great_year_after_last_day')
+def new_group_or_own_way(str_arg):
+    give_fact_at_public_company(str_arg)
+    print('use_good_company_under_last_part')
 
-def important_problem_or_group(str_arg):
+def give_fact_at_public_company(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    see_case('work')
+    new_group_or_own_way('able_group')
