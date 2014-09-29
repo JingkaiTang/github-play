@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def first_point_or_little_week(str_arg):
-    think_eye(str_arg)
-    print('next_group_or_public_life')
+def other_woman(str_arg):
+    eye(str_arg)
+    print('own_year')
 
-def think_eye(str_arg):
+def eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    first_point_or_little_week('try_first_problem_with_last_time')
+    other_woman('new_government')
