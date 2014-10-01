@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def long_hand_or_time(str_arg):
-    big_week_and_great_year(str_arg)
-    print('life_or_case')
+def government(str_arg):
+    come_little_work_into_case(str_arg)
+    print('way')
 
-def big_week_and_great_year(str_arg):
+def come_little_work_into_case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    long_hand_or_time('leave_thing_about_way')
+    government('know_other_number_for_old_group')
