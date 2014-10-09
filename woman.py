@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def day(str_arg):
-    able_problem_or_fact(str_arg)
-    print('same_life_or_new_point')
+def new_week(str_arg):
+    say_public_work(str_arg)
+    print('tell_point_to_part')
 
-def able_problem_or_fact(str_arg):
+def say_public_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    day('make_year_for_old_point')
+    new_week('high_week')
