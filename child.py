@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def own_problem_or_long_person(str_arg):
-    time(str_arg)
-    print('company')
+def small_day_and_case(str_arg):
+    big_part(str_arg)
+    print('young_time')
 
-def time(str_arg):
+def big_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    own_problem_or_long_person('other_place')
+    small_day_and_case('say_own_case')
