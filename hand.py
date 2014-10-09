@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def point(str_arg):
-    eye(str_arg)
-    print('large_place')
+def company_and_child(str_arg):
+    call_woman(str_arg)
+    print('number')
 
-def eye(str_arg):
+def call_woman(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    point('person')
+    company_and_child('early_day')
