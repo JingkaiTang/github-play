@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def place(str_arg):
-    long_problem_or_last_case(str_arg)
-    print('point')
+def world(str_arg):
+    know_woman_beneath_small_hand(str_arg)
+    print('man')
 
-def long_problem_or_last_case(str_arg):
+def know_woman_beneath_small_hand(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    place('point')
+    world('small_company')
