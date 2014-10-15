@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def try_week_on_early_man(str_arg):
-    say_same_problem_on_thing(str_arg)
-    print('man')
+def see_great_government(str_arg):
+    bad_thing(str_arg)
+    print('go_same_year')
 
-def say_same_problem_on_thing(str_arg):
+def bad_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    try_week_on_early_man('part')
+    see_great_government('big_work_or_life')
