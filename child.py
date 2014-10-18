@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def small_day_and_case(str_arg):
-    big_part(str_arg)
-    print('young_time')
+def say_hand_of_right_day(str_arg):
+    bad_way(str_arg)
+    print('able_work')
 
-def big_part(str_arg):
+def bad_way(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    small_day_and_case('say_own_case')
+    say_hand_of_right_day('go_woman')
