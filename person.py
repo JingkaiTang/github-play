@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def want_government(str_arg):
-    public_time(str_arg)
-    print('hand')
+def same_government_and_problem(str_arg):
+    company_and_year(str_arg)
+    print('thing')
 
-def public_time(str_arg):
+def company_and_year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    want_government('week')
+    same_government_and_problem('bad_life')
