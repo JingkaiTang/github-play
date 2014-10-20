@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def public_government(str_arg):
-    time(str_arg)
-    print('good_problem_and_child')
+def take_person(str_arg):
+    come_bad_number(str_arg)
+    print('own_life_and_problem')
 
-def time(str_arg):
+def come_bad_number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    public_government('leave_early_case_of_number')
+    take_person('person')
