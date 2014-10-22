@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def other_point(str_arg):
-    way_and_woman(str_arg)
-    print('able_part_or_next_year')
+def first_eye_or_high_way(str_arg):
+    case(str_arg)
+    print('same_day_or_part')
 
-def way_and_woman(str_arg):
+def case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    other_point('new_number_or_child')
+    first_eye_or_high_way('tell_old_man_above_child')
