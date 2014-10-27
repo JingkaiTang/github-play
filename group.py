@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def young_eye(str_arg):
-    child_or_thing(str_arg)
-    print('have_life_into_good_year')
+def group(str_arg):
+    next_man_or_first_fact(str_arg)
+    print('great_hand')
 
-def child_or_thing(str_arg):
+def next_man_or_first_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    young_eye('day')
+    group('see_hand_to_public_way')
