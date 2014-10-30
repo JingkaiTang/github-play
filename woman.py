@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def new_person_and_early_company(str_arg):
-    see_few_way_over_woman(str_arg)
-    print('feel_point')
+def bad_problem(str_arg):
+    time_and_big_fact(str_arg)
+    print('look_long_government_from_hand')
 
-def see_few_way_over_woman(str_arg):
+def time_and_big_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    new_person_and_early_company('able_company_and_new_case')
+    bad_problem('week_or_point')
