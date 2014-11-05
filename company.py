@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def hand(str_arg):
-    other_fact(str_arg)
-    print('child_and_small_day')
+def other_time(str_arg):
+    work_or_case(str_arg)
+    print('big_man')
 
-def other_fact(str_arg):
+def work_or_case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    hand('think_early_woman')
+    other_time('tell_few_point_over_last_child')

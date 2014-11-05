@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def same_point(str_arg):
-    same_time_or_point(str_arg)
-    print('old_problem')
+def able_work_and_good_company(str_arg):
+    big_child_or_life(str_arg)
+    print('day_and_other_child')
 
-def same_time_or_point(str_arg):
+def big_child_or_life(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    same_point('eye_and_number')
+    able_work_and_good_company('tell_high_government')
