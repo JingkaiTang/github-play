@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def same_government_and_problem(str_arg):
-    company_and_year(str_arg)
-    print('thing')
+def new_government(str_arg):
+    fact(str_arg)
+    print('new_world')
 
-def company_and_year(str_arg):
+def fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    same_government_and_problem('bad_life')
+    new_government('little_case_and_big_world')
