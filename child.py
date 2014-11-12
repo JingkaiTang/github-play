@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def say_hand_of_right_day(str_arg):
-    bad_way(str_arg)
-    print('able_work')
+def fact(str_arg):
+    hand(str_arg)
+    print('good_eye')
 
-def bad_way(str_arg):
+def hand(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    say_hand_of_right_day('go_woman')
+    fact('big_work')
