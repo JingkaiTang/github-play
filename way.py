@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def able_work_and_good_company(str_arg):
-    big_child_or_life(str_arg)
-    print('day_and_other_child')
+def good_child_or_able_day(str_arg):
+    little_day_and_old_place(str_arg)
+    print('fact_or_good_fact')
 
-def big_child_or_life(str_arg):
+def little_day_and_old_place(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    able_work_and_good_company('tell_high_government')
+    good_child_or_able_day('take_number')

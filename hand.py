@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def company_and_child(str_arg):
-    call_woman(str_arg)
-    print('number')
+def government(str_arg):
+    eye_and_thing(str_arg)
+    print('different_world')
 
-def call_woman(str_arg):
+def eye_and_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    company_and_child('early_day')
+    government('number_or_first_case')
