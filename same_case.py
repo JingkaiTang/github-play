@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def try_own_eye(str_arg):
-    think_few_work(str_arg)
-    print('little_work')
+def long_problem(str_arg):
+    young_work(str_arg)
+    print('high_week_and_few_week')
 
-def think_few_work(str_arg):
+def young_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    try_own_eye('work_group')
+    long_problem('high_group')
