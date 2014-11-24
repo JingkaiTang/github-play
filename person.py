@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def new_government(str_arg):
-    fact(str_arg)
-    print('new_world')
+def place(str_arg):
+    know_old_world(str_arg)
+    print('ask_government')
 
-def fact(str_arg):
+def know_old_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    new_government('little_case_and_big_world')
+    place('problem')
