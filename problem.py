@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def part(str_arg):
-    place(str_arg)
-    print('come_little_week')
+def company(str_arg):
+    old_man(str_arg)
+    print('company')
 
-def place(str_arg):
+def old_man(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    part('point')
+    company('ask_bad_day_at_child')
