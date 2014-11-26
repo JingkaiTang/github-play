@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def feel_case(str_arg):
-    call_time(str_arg)
-    print('long_problem')
+def see_able_week(str_arg):
+    large_time_and_old_point(str_arg)
+    print('point')
 
-def call_time(str_arg):
+def large_time_and_old_point(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    feel_case('man_and_great_part')
+    see_able_week('week')
