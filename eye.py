@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def world(str_arg):
-    know_woman_beneath_small_hand(str_arg)
-    print('man')
+def able_eye_or_able_eye(str_arg):
+    own_part(str_arg)
+    print('other_place')
 
-def know_woman_beneath_small_hand(str_arg):
+def own_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    world('small_company')
+    able_eye_or_able_eye('year')
