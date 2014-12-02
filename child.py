@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def fact(str_arg):
-    hand(str_arg)
-    print('good_eye')
+def use_world_about_small_part(str_arg):
+    long_man_or_week(str_arg)
+    print('come_young_child')
 
-def hand(str_arg):
+def long_man_or_week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    fact('big_work')
+    use_world_about_small_part('young_life')
