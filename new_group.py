@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def case(str_arg):
-    young_hand(str_arg)
-    print('say_day_from_life')
+def young_woman_or_same_eye(str_arg):
+    different_government(str_arg)
+    print('new_year_or_number')
 
-def young_hand(str_arg):
+def different_government(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    case('want_high_point_of_time')
+    young_woman_or_same_eye('early_time')
