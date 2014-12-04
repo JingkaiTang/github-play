@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def old_fact(str_arg):
-    child(str_arg)
-    print('able_child')
+def day_or_world(str_arg):
+    thing_or_child(str_arg)
+    print('woman_and_week')
 
-def child(str_arg):
+def thing_or_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    old_fact('make_new_life_with_place')
+    day_or_world('life_and_small_case')
