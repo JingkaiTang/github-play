@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def use_world_about_small_part(str_arg):
-    long_man_or_week(str_arg)
-    print('come_young_child')
+def place(str_arg):
+    man_and_old_case(str_arg)
+    print('call_right_day_to_group')
 
-def long_man_or_week(str_arg):
+def man_and_old_case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    use_world_about_small_part('young_life')
+    place('child')
