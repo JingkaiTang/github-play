@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def good_child_or_able_day(str_arg):
-    little_day_and_old_place(str_arg)
-    print('fact_or_good_fact')
+def new_group(str_arg):
+    old_thing(str_arg)
+    print('life')
 
-def little_day_and_old_place(str_arg):
+def old_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    good_child_or_able_day('take_number')
+    new_group('know_week_over_important_point')
