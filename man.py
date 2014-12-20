@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def take_person(str_arg):
-    come_bad_number(str_arg)
-    print('own_life_and_problem')
+def eye(str_arg):
+    tell_eye_about_good_woman(str_arg)
+    print('know_life')
 
-def come_bad_number(str_arg):
+def tell_eye_about_good_woman(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    take_person('person')
+    eye('point')

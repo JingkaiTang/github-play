@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def bad_problem(str_arg):
-    time_and_big_fact(str_arg)
-    print('look_long_government_from_hand')
+def other_part(str_arg):
+    day(str_arg)
+    print('public_hand')
 
-def time_and_big_fact(str_arg):
+def day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    bad_problem('week_or_point')
+    other_part('make_woman')
