@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def woman(str_arg):
-    say_few_time_into_case(str_arg)
-    print('feel_different_way')
+def go_fact_under_bad_fact(str_arg):
+    other_week(str_arg)
+    print('group')
 
-def say_few_time_into_case(str_arg):
+def other_week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    woman('young_problem_and_big_place')
+    go_fact_under_bad_fact('old_person')
