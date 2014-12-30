@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def world_and_important_day(str_arg):
-    seem_early_day(str_arg)
-    print('small_company')
+def way(str_arg):
+    new_year(str_arg)
+    print('fact')
 
-def seem_early_day(str_arg):
+def new_year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    world_and_important_day('little_day')
+    way('good_point')
