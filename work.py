@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def way(str_arg):
-    year(str_arg)
-    print('important_thing')
+def large_person_and_week(str_arg):
+    part(str_arg)
+    print('government')
 
-def year(str_arg):
+def part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    way('young_point')
+    large_person_and_week('own_part')
