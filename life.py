@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def big_eye(str_arg):
-    get_company_under_different_year(str_arg)
-    print('man')
+def hand_or_person(str_arg):
+    great_week(str_arg)
+    print('important_time_or_young_way')
 
-def get_company_under_different_year(str_arg):
+def great_week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    big_eye('give_man_up_life')
+    hand_or_person('next_year')
