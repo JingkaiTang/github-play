@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def way_and_problem(str_arg):
-    know_fact_beneath_other_point(str_arg)
-    print('small_woman')
+def come_case(str_arg):
+    number(str_arg)
+    print('man')
 
-def know_fact_beneath_other_point(str_arg):
+def number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    way_and_problem('early_world')
+    come_case('day')
