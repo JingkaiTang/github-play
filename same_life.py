@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def number(str_arg):
-    leave_bad_work_over_large_time(str_arg)
-    print('right_point')
+def old_life(str_arg):
+    thing(str_arg)
+    print('say_thing')
 
-def leave_bad_work_over_large_time(str_arg):
+def thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    number('public_year_or_fact')
+    old_life('be_right_week')
