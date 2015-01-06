@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def large_person_and_week(str_arg):
-    part(str_arg)
-    print('government')
+def tell_child_to_place(str_arg):
+    time(str_arg)
+    print('life')
 
-def part(str_arg):
+def time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    large_person_and_week('own_part')
+    tell_child_to_place('bad_problem')
