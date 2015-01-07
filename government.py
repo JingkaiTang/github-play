@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def way(str_arg):
-    problem(str_arg)
-    print('person')
+def same_number_and_problem(str_arg):
+    group(str_arg)
+    print('young_time')
 
-def problem(str_arg):
+def group(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    way('government')
+    same_number_and_problem('place')
