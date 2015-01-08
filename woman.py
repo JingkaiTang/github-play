@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def other_part(str_arg):
-    day(str_arg)
-    print('public_hand')
+def place(str_arg):
+    place_and_day(str_arg)
+    print('come_last_year_from_bad_government')
 
-def day(str_arg):
+def place_and_day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    other_part('make_woman')
+    place('ask_new_case')
