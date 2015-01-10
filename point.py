@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def way(str_arg):
-    new_year(str_arg)
-    print('fact')
+def person(str_arg):
+    own_year(str_arg)
+    print('hand')
 
-def new_year(str_arg):
+def own_year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    way('good_point')
+    person('leave_long_week')
