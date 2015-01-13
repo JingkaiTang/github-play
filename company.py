@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def high_company(str_arg):
-    man(str_arg)
-    print('good_year')
+def be_great_man_of_young_world(str_arg):
+    problem(str_arg)
+    print('do_big_work')
 
-def man(str_arg):
+def problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    high_company('tell_right_eye_of_right_point')
+    be_great_man_of_young_world('same_child')
