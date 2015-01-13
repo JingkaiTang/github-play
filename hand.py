@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def government(str_arg):
-    eye_and_thing(str_arg)
-    print('different_world')
+def feel_problem(str_arg):
+    problem_and_group(str_arg)
+    print('tell_world')
 
-def eye_and_thing(str_arg):
+def problem_and_group(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    government('number_or_first_case')
+    feel_problem('go_number')
