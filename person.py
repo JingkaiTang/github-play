@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def place(str_arg):
-    know_old_world(str_arg)
-    print('ask_government')
+def seem_last_fact(str_arg):
+    public_work(str_arg)
+    print('time')
 
-def know_old_world(str_arg):
+def public_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    place('problem')
+    seem_last_fact('give_few_case_for_other_week')
