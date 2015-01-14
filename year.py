@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def make_problem(str_arg):
-    great_number_or_same_way(str_arg)
-    print('world_or_own_place')
+def year(str_arg):
+    public_government_or_world(str_arg)
+    print('say_own_year')
 
-def great_number_or_same_way(str_arg):
+def public_government_or_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    make_problem('life_and_problem')
+    year('ask_important_hand')
