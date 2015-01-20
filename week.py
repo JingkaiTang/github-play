@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def other_woman(str_arg):
-    eye(str_arg)
-    print('own_year')
+def world(str_arg):
+    person(str_arg)
+    print('new_work_and_public_week')
 
-def eye(str_arg):
+def person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    other_woman('new_government')
+    world('small_life_and_place')
