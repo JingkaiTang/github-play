@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def come_case(str_arg):
-    number(str_arg)
-    print('man')
+def look_large_time_about_long_thing(str_arg):
+    first_case_and_same_week(str_arg)
+    print('life_or_person')
 
-def number(str_arg):
+def first_case_and_same_week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    come_case('day')
+    look_large_time_about_long_thing('good_life_and_world')
