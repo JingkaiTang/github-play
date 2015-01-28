@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def tell_child_to_place(str_arg):
-    time(str_arg)
-    print('life')
+def want_few_woman(str_arg):
+    work_or_government(str_arg)
+    print('know_work_above_group')
 
-def time(str_arg):
+def work_or_government(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    tell_child_to_place('bad_problem')
+    want_few_woman('find_child')
