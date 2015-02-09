@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def hand_or_person(str_arg):
-    great_week(str_arg)
-    print('important_time_or_young_way')
+def few_year(str_arg):
+    think_way_in_good_time(str_arg)
+    print('part')
 
-def great_week(str_arg):
+def think_way_in_good_time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    hand_or_person('next_year')
+    few_year('feel_long_week')
