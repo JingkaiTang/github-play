@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def place(str_arg):
-    man_and_old_case(str_arg)
-    print('call_right_day_to_group')
+def want_life(str_arg):
+    work(str_arg)
+    print('important_child')
 
-def man_and_old_case(str_arg):
+def work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    place('child')
+    want_life('woman_and_early_part')
