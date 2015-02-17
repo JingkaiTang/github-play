@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def little_group(str_arg):
-    want_old_part(str_arg)
-    print('few_world')
+def person(str_arg):
+    fact_and_same_part(str_arg)
+    print('think_large_work_into_other_year')
 
-def want_old_part(str_arg):
+def fact_and_same_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    little_group('life')
+    person('bad_week')
