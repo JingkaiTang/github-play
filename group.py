@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def problem(str_arg):
-    good_group(str_arg)
-    print('great_number')
+def look_other_part_at_first_way(str_arg):
+    know_few_number_with_company(str_arg)
+    print('bad_case')
 
-def good_group(str_arg):
+def know_few_number_with_company(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    problem('week_and_old_point')
+    look_other_part_at_first_way('case_or_world')
