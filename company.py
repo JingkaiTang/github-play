@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def be_great_man_of_young_world(str_arg):
-    problem(str_arg)
-    print('do_big_work')
+def eye(str_arg):
+    public_group(str_arg)
+    print('child')
 
-def problem(str_arg):
+def public_group(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    be_great_man_of_young_world('same_child')
+    eye('great_work_and_year')
