@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def seem_last_fact(str_arg):
-    public_work(str_arg)
-    print('time')
+def try_great_thing_of_person(str_arg):
+    get_new_thing(str_arg)
+    print('next_fact_and_able_person')
 
-def public_work(str_arg):
+def get_new_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    seem_last_fact('give_few_case_for_other_week')
+    try_great_thing_of_person('government_and_other_year')
