@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def person(str_arg):
-    fact_and_same_part(str_arg)
-    print('think_large_work_into_other_year')
+def first_way(str_arg):
+    bad_man_or_long_time(str_arg)
+    print('new_problem_or_man')
 
-def fact_and_same_part(str_arg):
+def bad_man_or_long_time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    person('bad_week')
+    first_way('way_and_old_year')
