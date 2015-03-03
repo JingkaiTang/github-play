@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def small_woman(str_arg):
-    thing(str_arg)
-    print('new_life')
+def right_number(str_arg):
+    person(str_arg)
+    print('own_problem')
 
-def thing(str_arg):
+def person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    small_woman('find_right_place')
+    right_number('case_and_year')
