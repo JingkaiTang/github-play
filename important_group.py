@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def way_and_small_day(str_arg):
-    last_government(str_arg)
-    print('important_point')
+def place_and_other_day(str_arg):
+    point(str_arg)
+    print('young_woman')
 
-def last_government(str_arg):
+def point(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    way_and_small_day('thing_and_place')
+    place_and_other_day('work')
