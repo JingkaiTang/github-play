@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def want_life(str_arg):
-    work(str_arg)
-    print('important_child')
+def make_part_about_hand(str_arg):
+    want_small_thing(str_arg)
+    print('large_work_or_thing')
 
-def work(str_arg):
+def want_small_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    want_life('woman_and_early_part')
+    make_part_about_hand('long_company_or_fact')
