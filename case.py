@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def first_way(str_arg):
-    bad_man_or_long_time(str_arg)
-    print('new_problem_or_man')
+def number(str_arg):
+    say_company_beneath_child(str_arg)
+    print('own_case')
 
-def bad_man_or_long_time(str_arg):
+def say_company_beneath_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    first_way('way_and_old_year')
+    number('group_or_right_day')
