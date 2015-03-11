@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def good_life(str_arg):
-    large_way(str_arg)
-    print('person_or_different_point')
+def thing_or_high_man(str_arg):
+    person(str_arg)
+    print('look_last_fact')
 
-def large_way(str_arg):
+def person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    good_life('say_fact')
+    thing_or_high_man('important_point_or_public_part')
