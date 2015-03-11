@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def group(str_arg):
-    case(str_arg)
-    print('do_own_group')
+def child_and_part(str_arg):
+    come_world(str_arg)
+    print('early_fact')
 
-def case(str_arg):
+def come_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    group('same_hand_and_woman')
+    child_and_part('number')
