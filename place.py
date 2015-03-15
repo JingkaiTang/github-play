@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def child(str_arg):
-    try_few_way(str_arg)
-    print('great_eye')
+def world(str_arg):
+    eye_or_work(str_arg)
+    print('man')
 
-def try_few_way(str_arg):
+def eye_or_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    child('say_small_problem')
+    world('big_number')
