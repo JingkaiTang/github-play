@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def woman_or_able_life(str_arg):
-    few_company_or_early_point(str_arg)
-    print('place')
+def new_thing(str_arg):
+    life_and_week(str_arg)
+    print('world_and_life')
 
-def few_company_or_early_point(str_arg):
+def life_and_week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    woman_or_able_life('woman')
+    new_thing('same_group')
