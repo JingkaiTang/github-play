@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def few_year(str_arg):
-    think_way_in_good_time(str_arg)
-    print('part')
+def person(str_arg):
+    young_part(str_arg)
+    print('work_and_little_point')
 
-def think_way_in_good_time(str_arg):
+def young_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    few_year('feel_long_week')
+    person('call_big_number_up_fact')
