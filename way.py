@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def new_group(str_arg):
-    old_thing(str_arg)
-    print('life')
+def important_fact(str_arg):
+    take_woman_beneath_big_year(str_arg)
+    print('different_group_or_other_number')
 
-def old_thing(str_arg):
+def take_woman_beneath_big_year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    new_group('know_week_over_important_point')
+    important_fact('old_company')
