@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def case(str_arg):
-    first_day_or_bad_world(str_arg)
-    print('man')
+def fact_and_good_world(str_arg):
+    different_time(str_arg)
+    print('little_problem')
 
-def first_day_or_bad_world(str_arg):
+def different_time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    case('little_place')
+    fact_and_good_world('long_world_and_week')
