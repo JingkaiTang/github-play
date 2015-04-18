@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def company(str_arg):
-    number(str_arg)
-    print('place_or_same_problem')
+def year_and_different_day(str_arg):
+    good_man(str_arg)
+    print('child')
 
-def number(str_arg):
+def good_man(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    company('early_day')
+    year_and_different_day('hand')

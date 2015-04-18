@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def eye(str_arg):
-    public_group(str_arg)
-    print('child')
+def work(str_arg):
+    right_number(str_arg)
+    print('be_public_child')
 
-def public_group(str_arg):
+def right_number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    eye('great_work_and_year')
+    work('life')
