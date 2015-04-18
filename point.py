@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def year(str_arg):
-    make_public_thing(str_arg)
-    print('long_case')
+def try_small_work(str_arg):
+    place_or_big_place(str_arg)
+    print('little_world_and_few_thing')
 
-def make_public_thing(str_arg):
+def place_or_big_place(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    year('point_or_week')
+    try_small_work('important_life')
