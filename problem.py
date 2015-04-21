@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def company(str_arg):
-    old_man(str_arg)
-    print('company')
+def see_part_from_point(str_arg):
+    different_part(str_arg)
+    print('seem_number_with_year')
 
-def old_man(str_arg):
+def different_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    company('ask_bad_day_at_child')
+    see_part_from_point('good_government')
