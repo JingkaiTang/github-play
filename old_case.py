@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def young_place(str_arg):
-    first_fact_or_fact(str_arg)
-    print('old_person')
+def different_man(str_arg):
+    great_government_and_work(str_arg)
+    print('small_number')
 
-def first_fact_or_fact(str_arg):
+def great_government_and_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    young_place('eye')
+    different_man('government')
