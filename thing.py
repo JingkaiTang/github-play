@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def leave_good_week_of_big_woman(str_arg):
-    few_company(str_arg)
-    print('group')
+def see_next_child_for_place(str_arg):
+    next_case(str_arg)
+    print('know_child_from_woman')
 
-def few_company(str_arg):
+def next_case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    leave_good_week_of_big_woman('case')
+    see_next_child_for_place('long_number_and_able_week')
