@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def right_number(str_arg):
-    person(str_arg)
-    print('own_problem')
+def hand(str_arg):
+    try_case(str_arg)
+    print('have_thing_beneath_part')
 
-def person(str_arg):
+def try_case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    right_number('case_and_year')
+    hand('world_or_part')
