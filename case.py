@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def new_thing(str_arg):
-    life_and_week(str_arg)
-    print('world_and_life')
+def hand_or_important_government(str_arg):
+    work_and_small_child(str_arg)
+    print('next_day_and_hand')
 
-def life_and_week(str_arg):
+def work_and_small_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    new_thing('same_group')
+    hand_or_important_government('day')
