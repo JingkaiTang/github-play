@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def use_child_up_different_child(str_arg):
-    case_and_important_number(str_arg)
-    print('man')
+def woman(str_arg):
+    try_bad_week_above_hand(str_arg)
+    print('use_long_number_with_person')
 
-def case_and_important_number(str_arg):
+def try_bad_week_above_hand(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    use_child_up_different_child('public_year')
+    woman('come_world_by_life')
