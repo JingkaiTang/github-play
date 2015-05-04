@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def small_world(str_arg):
-    company(str_arg)
-    print('go_public_time_into_few_hand')
+def government(str_arg):
+    work(str_arg)
+    print('group_and_few_work')
 
-def company(str_arg):
+def work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    small_world('use_case')
+    government('seem_same_world_beneath_big_hand')
