@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def government(str_arg):
-    work(str_arg)
-    print('group_and_few_work')
+def take_right_number(str_arg):
+    place_and_life(str_arg)
+    print('company_and_great_place')
 
-def work(str_arg):
+def place_and_life(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    government('seem_same_world_beneath_big_hand')
+    take_right_number('number_or_able_way')
