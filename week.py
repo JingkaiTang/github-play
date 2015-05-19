@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def hand(str_arg):
-    bad_point(str_arg)
-    print('time')
+def government(str_arg):
+    look_thing_of_year(str_arg)
+    print('look_big_part')
 
-def bad_point(str_arg):
+def look_thing_of_year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    hand('right_week_and_own_problem')
+    government('last_week_and_bad_number')
