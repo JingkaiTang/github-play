@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def feel_problem(str_arg):
-    problem_and_group(str_arg)
-    print('tell_world')
+def old_point(str_arg):
+    little_person_and_work(str_arg)
+    print('old_point')
 
-def problem_and_group(str_arg):
+def little_person_and_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    feel_problem('go_number')
+    old_point('large_way_or_day')
