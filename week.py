@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def government(str_arg):
-    look_thing_of_year(str_arg)
-    print('look_big_part')
+def bad_fact(str_arg):
+    good_group_and_small_year(str_arg)
+    print('person')
 
-def look_thing_of_year(str_arg):
+def good_group_and_small_year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    government('last_week_and_bad_number')
+    bad_fact('get_company')
