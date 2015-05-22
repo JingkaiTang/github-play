@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def work(str_arg):
-    right_number(str_arg)
-    print('be_public_child')
+def last_part(str_arg):
+    think_right_person(str_arg)
+    print('point')
 
-def right_number(str_arg):
+def think_right_person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    work('life')
+    last_part('work_same_company')
