@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def person_and_last_case(str_arg):
-    problem(str_arg)
-    print('give_world_with_person')
+def point(str_arg):
+    first_time(str_arg)
+    print('week')
 
-def problem(str_arg):
+def first_time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    person_and_last_case('point_or_case')
+    point('able_point_or_child')
