@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def next_company_and_man(str_arg):
-    time(str_arg)
-    print('eye')
+def child_and_woman(str_arg):
+    tell_number_of_company(str_arg)
+    print('early_life')
 
-def time(str_arg):
+def tell_number_of_company(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    next_company_and_man('find_same_fact')
+    child_and_woman('woman_and_little_eye')
