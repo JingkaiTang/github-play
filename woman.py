@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def thing(str_arg):
-    public_year(str_arg)
-    print('week_or_bad_world')
+def feel_own_thing(str_arg):
+    say_thing_of_other_thing(str_arg)
+    print('great_world')
 
-def public_year(str_arg):
+def say_thing_of_other_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    thing('company')
+    feel_own_thing('use_different_time')
