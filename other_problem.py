@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def work_part(str_arg):
-    last_fact(str_arg)
-    print('make_number_after_problem')
+def bad_world(str_arg):
+    call_first_year_at_other_part(str_arg)
+    print('part')
 
-def last_fact(str_arg):
+def call_first_year_at_other_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    work_part('year_or_large_year')
+    bad_world('own_thing_and_work')
