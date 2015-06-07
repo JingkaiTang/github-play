@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def eye_or_next_group(str_arg):
-    way_or_government(str_arg)
-    print('week')
+def young_point(str_arg):
+    important_man_and_problem(str_arg)
+    print('time_and_group')
 
-def way_or_government(str_arg):
+def important_man_and_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    eye_or_next_group('public_way_or_case')
+    young_point('little_year')
