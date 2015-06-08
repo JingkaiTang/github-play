@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def world(str_arg):
-    eye_or_work(str_arg)
-    print('man')
+def year_and_great_world(str_arg):
+    work_point(str_arg)
+    print('way_or_important_way')
 
-def eye_or_work(str_arg):
+def work_point(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    world('big_number')
+    year_and_great_world('able_point')
