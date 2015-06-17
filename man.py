@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def eye(str_arg):
-    tell_eye_about_good_woman(str_arg)
-    print('know_life')
+def year(str_arg):
+    early_problem(str_arg)
+    print('place')
 
-def tell_eye_about_good_woman(str_arg):
+def early_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    eye('point')
+    year('public_fact_or_next_person')
