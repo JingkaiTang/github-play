@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def young_child(str_arg):
-    go_able_number(str_arg)
-    print('own_week')
+def few_way(str_arg):
+    own_year_and_early_way(str_arg)
+    print('work')
 
-def go_able_number(str_arg):
+def own_year_and_early_way(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    young_child('bad_case')
+    few_way('look_new_way')
