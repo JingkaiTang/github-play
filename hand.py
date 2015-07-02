@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def old_point(str_arg):
-    little_person_and_work(str_arg)
-    print('old_point')
+def seem_right_point_of_problem(str_arg):
+    company_or_different_eye(str_arg)
+    print('able_place_or_great_time')
 
-def little_person_and_work(str_arg):
+def company_or_different_eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    old_point('large_way_or_day')
+    seem_right_point_of_problem('thing')
