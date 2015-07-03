@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def young_point(str_arg):
-    important_man_and_problem(str_arg)
-    print('time_and_group')
+def case(str_arg):
+    case(str_arg)
+    print('fact_and_great_year')
 
-def important_man_and_problem(str_arg):
+def case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    young_point('little_year')
+    case('great_day_or_small_woman')
