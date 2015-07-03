@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def thing(str_arg):
-    problem_or_little_case(str_arg)
-    print('week')
+def child(str_arg):
+    way(str_arg)
+    print('day')
 
-def problem_or_little_case(str_arg):
+def way(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    thing('get_fact')
+    child('company')
