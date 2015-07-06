@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def try_small_work(str_arg):
-    place_or_big_place(str_arg)
-    print('little_world_and_few_thing')
+def government(str_arg):
+    government_or_next_government(str_arg)
+    print('ask_large_way')
 
-def place_or_big_place(str_arg):
+def government_or_next_government(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    try_small_work('important_life')
+    government('try_world_from_few_world')
