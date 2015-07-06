@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def person(str_arg):
-    young_part(str_arg)
-    print('work_and_little_point')
+def place_and_work(str_arg):
+    big_hand(str_arg)
+    print('public_problem')
 
-def young_part(str_arg):
+def big_hand(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    person('call_big_number_up_fact')
+    place_and_work('find_government_for_public_problem')
