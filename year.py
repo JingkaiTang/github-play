@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def year(str_arg):
-    public_government_or_world(str_arg)
-    print('say_own_year')
+def want_point(str_arg):
+    thing(str_arg)
+    print('seem_point')
 
-def public_government_or_world(str_arg):
+def thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    year('ask_important_hand')
+    want_point('new_part')
