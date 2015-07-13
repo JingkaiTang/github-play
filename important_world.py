@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def day(str_arg):
-    have_other_world(str_arg)
-    print('important_person_and_small_case')
+def do_high_way(str_arg):
+    know_day_by_good_person(str_arg)
+    print('high_place')
 
-def have_other_world(str_arg):
+def know_day_by_good_person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    day('try_same_case')
+    do_high_way('old_time')
