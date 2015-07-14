@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def last_part(str_arg):
-    think_right_person(str_arg)
-    print('point')
+def be_great_way_in_few_way(str_arg):
+    person(str_arg)
+    print('part')
 
-def think_right_person(str_arg):
+def person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    last_part('work_same_company')
+    be_great_way_in_few_way('big_number_or_group')
