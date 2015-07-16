@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def long_day(str_arg):
-    other_place_or_long_part(str_arg)
-    print('woman_and_small_eye')
+def go_way_into_small_man(str_arg):
+    number_and_first_world(str_arg)
+    print('early_group')
 
-def other_place_or_long_part(str_arg):
+def number_and_first_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    long_day('year')
+    go_way_into_small_man('young_time_and_other_place')
