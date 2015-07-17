@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def world(str_arg):
-    make_work(str_arg)
-    print('other_week')
+def next_life_or_part(str_arg):
+    next_life(str_arg)
+    print('case')
 
-def make_work(str_arg):
+def next_life(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    world('little_number')
+    next_life_or_part('feel_point_on_big_way')
