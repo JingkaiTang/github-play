@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def place_and_work(str_arg):
-    big_hand(str_arg)
-    print('public_problem')
+def right_number_and_day(str_arg):
+    other_man_or_big_day(str_arg)
+    print('right_government_or_number')
 
-def big_hand(str_arg):
+def other_man_or_big_day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    place_and_work('find_government_for_public_problem')
+    right_number_and_day('important_way')
