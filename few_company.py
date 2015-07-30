@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def government(str_arg):
-    seem_work(str_arg)
-    print('young_number')
+def group(str_arg):
+    great_work(str_arg)
+    print('try_early_way_under_other_week')
 
-def seem_work(str_arg):
+def great_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    government('day_or_company')
+    group('number')
