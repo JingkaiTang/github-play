@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def young_place(str_arg):
-    point(str_arg)
-    print('long_week_and_year')
+def time(str_arg):
+    next_man_or_large_child(str_arg)
+    print('large_point')
 
-def point(str_arg):
+def next_man_or_large_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    young_place('small_point')
+    time('feel_place')
