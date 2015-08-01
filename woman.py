@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def feel_own_thing(str_arg):
-    say_thing_of_other_thing(str_arg)
-    print('great_world')
+def large_woman(str_arg):
+    week(str_arg)
+    print('thing')
 
-def say_thing_of_other_thing(str_arg):
+def week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    feel_own_thing('use_different_time')
+    large_woman('come_small_year_by_work')
