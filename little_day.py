@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def same_week(str_arg):
-    see_other_woman(str_arg)
-    print('young_eye')
+def look_great_point_under_high_person(str_arg):
+    large_man(str_arg)
+    print('able_hand')
 
-def see_other_woman(str_arg):
+def large_man(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    same_week('bad_time')
+    look_great_point_under_high_person('year_and_problem')
