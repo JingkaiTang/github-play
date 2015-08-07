@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def last_week(str_arg):
-    big_week_or_case(str_arg)
-    print('use_woman')
+def work_way_up_hand(str_arg):
+    say_woman_above_problem(str_arg)
+    print('try_great_company')
 
-def big_week_or_case(str_arg):
+def say_woman_above_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    last_week('new_child_and_fact')
+    work_way_up_hand('young_world_and_woman')
