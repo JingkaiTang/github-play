@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def government(str_arg):
-    government_or_next_government(str_arg)
-    print('ask_large_way')
+def try_large_problem(str_arg):
+    long_government_or_important_life(str_arg)
+    print('year_or_good_world')
 
-def government_or_next_government(str_arg):
+def long_government_or_important_life(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    government('try_world_from_few_world')
+    try_large_problem('make_year_with_new_group')

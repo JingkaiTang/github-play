@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def time(str_arg):
-    next_man_or_large_child(str_arg)
-    print('large_point')
+def next_eye(str_arg):
+    thing(str_arg)
+    print('ask_own_world_over_person')
 
-def next_man_or_large_child(str_arg):
+def thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    time('feel_place')
+    next_eye('come_next_eye_up_place')
