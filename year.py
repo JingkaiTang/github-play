@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def want_point(str_arg):
-    thing(str_arg)
-    print('seem_point')
+def able_case(str_arg):
+    eye(str_arg)
+    print('use_week')
 
-def thing(str_arg):
+def eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    want_point('new_part')
+    able_case('person')
