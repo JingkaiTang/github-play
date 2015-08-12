@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def right_number_and_day(str_arg):
-    other_man_or_big_day(str_arg)
-    print('right_government_or_number')
+def able_work(str_arg):
+    few_fact(str_arg)
+    print('do_government')
 
-def other_man_or_big_day(str_arg):
+def few_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    right_number_and_day('important_way')
+    able_work('first_time')
