@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def see_part_from_point(str_arg):
-    different_part(str_arg)
-    print('seem_number_with_year')
+def tell_week_to_important_work(str_arg):
+    use_right_child(str_arg)
+    print('young_world')
 
-def different_part(str_arg):
+def use_right_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    see_part_from_point('good_government')
+    tell_week_to_important_work('same_thing_and_bad_year')
