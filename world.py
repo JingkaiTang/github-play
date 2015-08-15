@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def hand(str_arg):
-    try_case(str_arg)
-    print('have_thing_beneath_part')
+def world(str_arg):
+    go_first_world_in_bad_part(str_arg)
+    print('say_right_part')
 
-def try_case(str_arg):
+def go_first_world_in_bad_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    hand('world_or_part')
+    world('week')
