@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def number(str_arg):
-    give_case_about_group(str_arg)
-    print('child')
+def leave_problem_by_woman(str_arg):
+    little_government_and_great_man(str_arg)
+    print('own_woman')
 
-def give_case_about_group(str_arg):
+def little_government_and_great_man(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    number('week_and_child')
+    leave_problem_by_woman('group')
