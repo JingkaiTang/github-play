@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def same_week(str_arg):
-    next_world_or_life(str_arg)
-    print('day')
+def year(str_arg):
+    bad_day(str_arg)
+    print('early_problem_and_woman')
 
-def next_world_or_life(str_arg):
+def bad_day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    same_week('number_and_person')
+    year('government')
