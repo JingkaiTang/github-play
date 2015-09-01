@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def next_part_and_thing(str_arg):
-    large_work(str_arg)
-    print('hand_and_hand')
+def part(str_arg):
+    find_year_about_problem(str_arg)
+    print('week_or_hand')
 
-def large_work(str_arg):
+def find_year_about_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    next_part_and_thing('man')
+    part('give_problem_on_few_fact')
