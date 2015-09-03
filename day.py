@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def call_public_week_to_point(str_arg):
-    year_or_woman(str_arg)
-    print('other_year')
+def look_eye(str_arg):
+    bad_hand(str_arg)
+    print('find_long_child_by_bad_work')
 
-def year_or_woman(str_arg):
+def bad_hand(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    call_public_week_to_point('bad_life')
+    look_eye('able_number')
