@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def next_eye(str_arg):
-    thing(str_arg)
-    print('ask_own_world_over_person')
+def work_young_government_up_good_place(str_arg):
+    part(str_arg)
+    print('week')
 
-def thing(str_arg):
+def part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    next_eye('come_next_eye_up_place')
+    work_young_government_up_good_place('life_or_same_world')
