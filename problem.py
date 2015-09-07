@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def last_thing(str_arg):
-    day(str_arg)
-    print('first_child')
+def good_place(str_arg):
+    world_or_problem(str_arg)
+    print('day')
 
-def day(str_arg):
+def world_or_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    last_thing('think_new_week')
+    good_place('do_young_part')
