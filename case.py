@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def first_case_and_woman(str_arg):
-    week(str_arg)
-    print('large_government')
+def big_number(str_arg):
+    world_and_work(str_arg)
+    print('different_point')
 
-def week(str_arg):
+def world_and_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    first_case_and_woman('case')
+    big_number('ask_life')

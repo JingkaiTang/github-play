@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def right_time(str_arg):
-    thing(str_arg)
-    print('fact')
+def last_place(str_arg):
+    company(str_arg)
+    print('own_problem_and_early_way')
 
-def thing(str_arg):
+def company(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    right_time('first_point')
+    last_place('say_old_woman')
