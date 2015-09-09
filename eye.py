@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def leave_problem_by_woman(str_arg):
-    little_government_and_great_man(str_arg)
-    print('own_woman')
+def ask_time(str_arg):
+    number_and_own_work(str_arg)
+    print('man_or_public_government')
 
-def little_government_and_great_man(str_arg):
+def number_and_own_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    leave_problem_by_woman('group')
+    ask_time('high_point_and_person')
