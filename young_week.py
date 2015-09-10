@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def young_life(str_arg):
-    long_part(str_arg)
-    print('able_thing')
+def same_day_and_high_hand(str_arg):
+    important_part(str_arg)
+    print('good_hand')
 
-def long_part(str_arg):
+def important_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    young_life('way')
+    same_day_and_high_hand('day_and_last_fact')
