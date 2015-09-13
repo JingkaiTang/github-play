@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def few_way(str_arg):
-    own_year_and_early_way(str_arg)
-    print('work')
+def group(str_arg):
+    try_place(str_arg)
+    print('own_time')
 
-def own_year_and_early_way(str_arg):
+def try_place(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    few_way('look_new_way')
+    group('first_part')
