@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def day(str_arg):
-    seem_large_thing_of_thing(str_arg)
-    print('world')
+def year_and_great_world(str_arg):
+    public_government(str_arg)
+    print('ask_own_thing_in_time')
 
-def seem_large_thing_of_thing(str_arg):
+def public_government(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    day('large_hand')
+    year_and_great_world('number')
