@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def year_or_year(str_arg):
-    come_different_woman_into_different_life(str_arg)
-    print('different_week')
+def say_child(str_arg):
+    long_company_or_eye(str_arg)
+    print('use_man')
 
-def come_different_woman_into_different_life(str_arg):
+def long_company_or_eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    year_or_year('important_fact')
+    say_child('world')
