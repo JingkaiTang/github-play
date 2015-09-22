@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def look_eye(str_arg):
-    bad_hand(str_arg)
-    print('find_long_child_by_bad_work')
+def point(str_arg):
+    young_problem_and_part(str_arg)
+    print('way_and_last_part')
 
-def bad_hand(str_arg):
+def young_problem_and_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    look_eye('able_number')
+    point('part_and_next_company')
