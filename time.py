@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def have_next_point(str_arg):
-    try_government(str_arg)
-    print('case')
+def group(str_arg):
+    fact_and_next_way(str_arg)
+    print('seem_group')
 
-def try_government(str_arg):
+def fact_and_next_way(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    have_next_point('point')
+    group('see_week')
