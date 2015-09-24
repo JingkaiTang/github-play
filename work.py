@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def year(str_arg):
-    bad_day(str_arg)
-    print('early_problem_and_woman')
+def case(str_arg):
+    feel_public_time_into_work(str_arg)
+    print('company')
 
-def bad_day(str_arg):
+def feel_public_time_into_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    year('government')
+    case('problem_and_new_thing')
