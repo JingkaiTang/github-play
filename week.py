@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def hand(str_arg):
-    call_large_eye(str_arg)
-    print('try_public_point_beneath_way')
+def few_way(str_arg):
+    work_place_of_next_fact(str_arg)
+    print('other_number_and_problem')
 
-def call_large_eye(str_arg):
+def work_place_of_next_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    hand('child')
+    few_way('same_woman')
