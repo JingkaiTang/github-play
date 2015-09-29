@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def year_and_great_world(str_arg):
-    work_point(str_arg)
-    print('way_or_important_way')
+def own_number_or_person(str_arg):
+    come_week_into_work(str_arg)
+    print('go_woman')
 
-def work_point(str_arg):
+def come_week_into_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    year_and_great_world('able_point')
+    own_number_or_person('old_day_and_new_government')
