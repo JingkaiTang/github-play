@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def life(str_arg):
-    child(str_arg)
-    print('long_time')
+def other_fact_and_new_place(str_arg):
+    new_thing(str_arg)
+    print('high_part')
 
-def child(str_arg):
+def new_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    life('company')
+    other_fact_and_new_place('work_and_eye')
