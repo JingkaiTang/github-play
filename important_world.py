@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def do_high_way(str_arg):
-    know_day_by_good_person(str_arg)
-    print('high_place')
+def right_child_and_last_part(str_arg):
+    woman_and_able_eye(str_arg)
+    print('old_work')
 
-def know_day_by_good_person(str_arg):
+def woman_and_able_eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    do_high_way('old_time')
+    right_child_and_last_part('problem')
