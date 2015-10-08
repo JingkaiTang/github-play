@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def year_and_great_world(str_arg):
-    public_government(str_arg)
-    print('ask_own_thing_in_time')
+def man_and_little_hand(str_arg):
+    able_hand_or_old_problem(str_arg)
+    print('way')
 
-def public_government(str_arg):
+def able_hand_or_old_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    year_and_great_world('number')
+    man_and_little_hand('bad_eye_or_large_part')
