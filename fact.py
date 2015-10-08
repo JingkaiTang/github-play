@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def point(str_arg):
-    next_case(str_arg)
-    print('seem_case')
+def get_same_woman_in_small_time(str_arg):
+    take_few_hand_from_number(str_arg)
+    print('man_and_long_year')
 
-def next_case(str_arg):
+def take_few_hand_from_number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    point('government')
+    get_same_woman_in_small_time('problem')
