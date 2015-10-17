@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def big_year(str_arg):
-    thing(str_arg)
-    print('big_place')
+def week(str_arg):
+    year_and_fact(str_arg)
+    print('child_or_woman')
 
-def thing(str_arg):
+def year_and_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    big_year('same_life')
+    week('other_day_and_way')
