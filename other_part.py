@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def thing_and_person(str_arg):
-    point(str_arg)
-    print('large_hand')
+def come_thing(str_arg):
+    think_part_beneath_child(str_arg)
+    print('right_life')
 
-def point(str_arg):
+def think_part_beneath_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    thing_and_person('have_able_company_into_different_week')
+    come_thing('do_bad_child')
