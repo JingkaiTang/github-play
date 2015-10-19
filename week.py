@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def few_way(str_arg):
-    work_place_of_next_fact(str_arg)
-    print('other_number_and_problem')
+def think_same_woman_above_government(str_arg):
+    little_world(str_arg)
+    print('world')
 
-def work_place_of_next_fact(str_arg):
+def little_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    few_way('same_woman')
+    think_same_woman_above_government('early_eye')
