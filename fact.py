@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def get_same_woman_in_small_time(str_arg):
-    take_few_hand_from_number(str_arg)
-    print('man_and_long_year')
+def different_week(str_arg):
+    feel_right_fact_on_time(str_arg)
+    print('thing')
 
-def take_few_hand_from_number(str_arg):
+def feel_right_fact_on_time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    get_same_woman_in_small_time('problem')
+    different_week('work')
