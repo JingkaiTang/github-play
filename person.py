@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def little_fact(str_arg):
-    eye(str_arg)
-    print('man')
+def be_problem_after_first_child(str_arg):
+    big_number_and_problem(str_arg)
+    print('different_life')
 
-def eye(str_arg):
+def big_number_and_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    little_fact('way')
+    be_problem_after_first_child('public_way_or_other_point')
