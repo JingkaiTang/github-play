@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def large_woman(str_arg):
-    week(str_arg)
-    print('thing')
+def year_and_person(str_arg):
+    new_fact(str_arg)
+    print('man')
 
-def week(str_arg):
+def new_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    large_woman('come_small_year_by_work')
+    year_and_person('right_time')
