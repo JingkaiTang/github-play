@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def own_number_or_person(str_arg):
-    come_week_into_work(str_arg)
-    print('go_woman')
+def do_old_day(str_arg):
+    leave_part(str_arg)
+    print('call_man')
 
-def come_week_into_work(str_arg):
+def leave_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    own_number_or_person('old_day_and_new_government')
+    do_old_day('public_hand')
