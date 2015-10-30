@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def year_and_person(str_arg):
-    new_fact(str_arg)
-    print('man')
+def good_part(str_arg):
+    high_eye(str_arg)
+    print('know_number_over_man')
 
-def new_fact(str_arg):
+def high_eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    year_and_person('right_time')
+    good_part('number')
