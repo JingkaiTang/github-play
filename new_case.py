@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def great_person(str_arg):
-    give_long_eye(str_arg)
-    print('other_hand')
+def try_little_work(str_arg):
+    first_number(str_arg)
+    print('large_fact')
 
-def give_long_eye(str_arg):
+def first_number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    great_person('want_long_work_up_next_world')
+    try_little_work('work')
