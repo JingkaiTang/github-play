@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def group(str_arg):
-    fact_and_next_way(str_arg)
-    print('seem_group')
+def child_and_company(str_arg):
+    small_case_and_important_government(str_arg)
+    print('try_group_up_number')
 
-def fact_and_next_way(str_arg):
+def small_case_and_important_government(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    group('see_week')
+    child_and_company('eye_and_early_government')
