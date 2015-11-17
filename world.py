@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def world(str_arg):
-    go_first_world_in_bad_part(str_arg)
-    print('say_right_part')
+def try_life_to_way(str_arg):
+    large_world(str_arg)
+    print('government')
 
-def go_first_world_in_bad_part(str_arg):
+def large_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    world('week')
+    try_life_to_way('case_or_old_company')
