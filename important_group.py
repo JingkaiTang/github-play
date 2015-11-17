@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def high_part(str_arg):
-    year(str_arg)
-    print('problem')
+def different_thing_and_first_problem(str_arg):
+    day(str_arg)
+    print('tell_new_time')
 
-def year(str_arg):
+def day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    high_part('point_or_week')
+    different_thing_and_first_problem('early_person')
