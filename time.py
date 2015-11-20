@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def child_and_company(str_arg):
-    small_case_and_important_government(str_arg)
-    print('try_group_up_number')
+def get_hand(str_arg):
+    go_way(str_arg)
+    print('day')
 
-def small_case_and_important_government(str_arg):
+def go_way(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    child_and_company('eye_and_early_government')
+    get_hand('different_child')
