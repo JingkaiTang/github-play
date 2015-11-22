@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def able_hand(str_arg):
-    high_week_and_eye(str_arg)
-    print('problem')
+def company(str_arg):
+    want_public_time_over_young_problem(str_arg)
+    print('seem_great_problem_of_child')
 
-def high_week_and_eye(str_arg):
+def want_public_time_over_young_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    able_hand('leave_life_under_first_part')
+    company('next_world_or_child')
