@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def able_case(str_arg):
-    eye(str_arg)
-    print('use_week')
+def great_way(str_arg):
+    group(str_arg)
+    print('case')
 
-def eye(str_arg):
+def group(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    able_case('person')
+    great_way('year_or_first_man')
