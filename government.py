@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def next_life_or_part(str_arg):
-    next_life(str_arg)
-    print('case')
+def little_life(str_arg):
+    problem_and_work(str_arg)
+    print('other_child_and_child')
 
-def next_life(str_arg):
+def problem_and_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    next_life_or_part('feel_point_on_big_way')
+    little_life('thing')
