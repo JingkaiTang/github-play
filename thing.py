@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def bad_hand_and_able_hand(str_arg):
-    large_woman(str_arg)
-    print('thing')
+def think_hand_above_few_place(str_arg):
+    same_company(str_arg)
+    print('life_or_man')
 
-def large_woman(str_arg):
+def same_company(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    bad_hand_and_able_hand('world')
+    think_hand_above_few_place('make_eye')
