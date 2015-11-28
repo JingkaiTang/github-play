@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def feel_little_day_of_group(str_arg):
-    say_man_by_right_government(str_arg)
-    print('life_and_right_way')
+def own_thing(str_arg):
+    work(str_arg)
+    print('good_life')
 
-def say_man_by_right_government(str_arg):
+def work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    feel_little_day_of_group('eye')
+    own_thing('number')
