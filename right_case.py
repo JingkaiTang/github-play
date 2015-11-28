@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def high_point(str_arg):
-    year(str_arg)
-    print('other_case')
+def person(str_arg):
+    place(str_arg)
+    print('good_company_or_thing')
 
-def year(str_arg):
+def place(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    high_point('large_government')
+    person('give_man_beneath_eye')
