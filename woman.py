@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def good_part(str_arg):
-    high_eye(str_arg)
-    print('know_number_over_man')
+def world(str_arg):
+    week(str_arg)
+    print('old_man_or_fact')
 
-def high_eye(str_arg):
+def week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    good_part('number')
+    world('place_or_little_group')
