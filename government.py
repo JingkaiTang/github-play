@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def little_life(str_arg):
-    problem_and_work(str_arg)
-    print('other_child_and_child')
+def large_government_or_different_eye(str_arg):
+    child_or_public_fact(str_arg)
+    print('life_or_time')
 
-def problem_and_work(str_arg):
+def child_or_public_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    little_life('thing')
+    large_government_or_different_eye('woman')
