@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def world(str_arg):
-    week(str_arg)
-    print('old_man_or_fact')
+def call_other_work(str_arg):
+    make_child(str_arg)
+    print('great_government_or_company')
 
-def week(str_arg):
+def make_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    world('place_or_little_group')
+    call_other_work('other_work')
