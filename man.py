@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def big_work(str_arg):
-    leave_able_day(str_arg)
-    print('different_company_and_high_person')
+def early_company(str_arg):
+    next_woman_or_group(str_arg)
+    print('come_eye_to_woman')
 
-def leave_able_day(str_arg):
+def next_woman_or_group(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    big_work('great_number')
+    early_company('work_or_long_year')
