@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def be_great_way_in_few_way(str_arg):
-    person(str_arg)
-    print('part')
+def last_work_or_last_time(str_arg):
+    seem_life_to_world(str_arg)
+    print('fact')
 
-def person(str_arg):
+def seem_life_to_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    be_great_way_in_few_way('big_number_or_group')
+    last_work_or_last_time('do_point_over_long_week')
