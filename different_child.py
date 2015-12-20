@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def place(str_arg):
-    have_able_problem(str_arg)
-    print('first_world')
+def small_point(str_arg):
+    look_public_year(str_arg)
+    print('small_time')
 
-def have_able_problem(str_arg):
+def look_public_year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    place('thing')
+    small_point('company')

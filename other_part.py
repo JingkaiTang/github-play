@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def come_thing(str_arg):
-    think_part_beneath_child(str_arg)
-    print('right_life')
+def see_fact_above_high_eye(str_arg):
+    important_problem_and_small_day(str_arg)
+    print('ask_woman')
 
-def think_part_beneath_child(str_arg):
+def important_problem_and_small_day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    come_thing('do_bad_child')
+    see_fact_above_high_eye('problem')
