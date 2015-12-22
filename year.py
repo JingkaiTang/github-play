@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def great_way(str_arg):
-    group(str_arg)
-    print('case')
+def get_bad_child_of_large_government(str_arg):
+    try_case_on_high_woman(str_arg)
+    print('want_company')
 
-def group(str_arg):
+def try_case_on_high_woman(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    great_way('year_or_first_man')
+    get_bad_child_of_large_government('number')
