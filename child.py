@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def make_week(str_arg):
-    point(str_arg)
-    print('try_time')
+def way(str_arg):
+    last_eye(str_arg)
+    print('think_small_person_with_long_point')
 
-def point(str_arg):
+def last_eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    make_week('place')
+    way('high_way_and_man')
