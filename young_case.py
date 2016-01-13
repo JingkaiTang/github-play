@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def company(str_arg):
-    want_public_time_over_young_problem(str_arg)
-    print('seem_great_problem_of_child')
+def bad_thing(str_arg):
+    see_thing_to_right_woman(str_arg)
+    print('last_way')
 
-def want_public_time_over_young_problem(str_arg):
+def see_thing_to_right_woman(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    company('next_world_or_child')
+    bad_thing('own_work')
