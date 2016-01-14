@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def get_hand(str_arg):
-    go_way(str_arg)
-    print('day')
+def try_week_about_way(str_arg):
+    try_time_to_number(str_arg)
+    print('go_world')
 
-def go_way(str_arg):
+def try_time_to_number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    get_hand('different_child')
+    try_week_about_way('know_man_for_thing')
