@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def give_problem(str_arg):
-    same_life_or_week(str_arg)
-    print('get_high_child_on_fact')
+def bad_world(str_arg):
+    high_man(str_arg)
+    print('bad_government')
 
-def same_life_or_week(str_arg):
+def high_man(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    give_problem('big_company')
+    bad_world('point_or_year')
