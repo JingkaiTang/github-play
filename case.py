@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def number(str_arg):
-    work_right_person(str_arg)
-    print('young_person')
+def place(str_arg):
+    call_government_after_child(str_arg)
+    print('next_place')
 
-def work_right_person(str_arg):
+def call_government_after_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    number('case_and_important_way')
+    place('woman')
