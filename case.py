@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def place(str_arg):
-    call_government_after_child(str_arg)
-    print('next_place')
+def company(str_arg):
+    life(str_arg)
+    print('life')
 
-def call_government_after_child(str_arg):
+def life(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    place('woman')
+    company('point_and_right_case')
