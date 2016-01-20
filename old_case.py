@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def different_man(str_arg):
-    great_government_and_work(str_arg)
-    print('small_number')
+def small_hand_or_large_woman(str_arg):
+    little_group_and_person(str_arg)
+    print('big_number_and_person')
 
-def great_government_and_work(str_arg):
+def little_group_and_person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    different_man('government')
+    small_hand_or_large_woman('case')
