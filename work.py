@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def work(str_arg):
-    long_point_and_few_point(str_arg)
-    print('number')
+def place_or_time(str_arg):
+    day(str_arg)
+    print('want_way')
 
-def long_point_and_few_point(str_arg):
+def day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    work('young_problem')
+    place_or_time('young_group')
