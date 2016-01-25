@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def call_long_hand_over_child(str_arg):
-    hand(str_arg)
-    print('company_and_right_eye')
+def man_or_place(str_arg):
+    good_number_and_little_year(str_arg)
+    print('big_man')
 
-def hand(str_arg):
+def good_number_and_little_year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    call_long_hand_over_child('have_group')
+    man_or_place('day_and_child')
