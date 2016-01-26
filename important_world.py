@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def right_child_and_last_part(str_arg):
-    woman_and_able_eye(str_arg)
-    print('old_work')
+def feel_large_person(str_arg):
+    thing(str_arg)
+    print('small_year_or_number')
 
-def woman_and_able_eye(str_arg):
+def thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    right_child_and_last_part('problem')
+    feel_large_person('case')
