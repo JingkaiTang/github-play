@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def group(str_arg):
-    try_place(str_arg)
-    print('own_time')
+def get_other_day_beneath_company(str_arg):
+    year_and_problem(str_arg)
+    print('good_fact')
 
-def try_place(str_arg):
+def year_and_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    group('first_part')
+    get_other_day_beneath_company('man_and_group')
