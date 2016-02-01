@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def think_hand_above_few_place(str_arg):
-    same_company(str_arg)
-    print('life_or_man')
+def call_important_eye(str_arg):
+    give_other_day(str_arg)
+    print('early_man_and_next_hand')
 
-def same_company(str_arg):
+def give_other_day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    think_hand_above_few_place('make_eye')
+    call_important_eye('first_government')
