@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def call_important_eye(str_arg):
-    give_other_day(str_arg)
-    print('early_man_and_next_hand')
+def child(str_arg):
+    child_or_place(str_arg)
+    print('woman_and_day')
 
-def give_other_day(str_arg):
+def child_or_place(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    call_important_eye('first_government')
+    child('get_small_eye')
