@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def get_other_day_beneath_company(str_arg):
-    year_and_problem(str_arg)
-    print('good_fact')
+def come_right_way_after_child(str_arg):
+    own_year_or_long_world(str_arg)
+    print('come_way_beneath_different_group')
 
-def year_and_problem(str_arg):
+def own_year_or_long_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    get_other_day_beneath_company('man_and_group')
+    come_right_way_after_child('man')
