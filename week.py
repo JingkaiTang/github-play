@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def think_same_woman_above_government(str_arg):
-    little_world(str_arg)
-    print('world')
+def eye(str_arg):
+    way(str_arg)
+    print('right_problem')
 
-def little_world(str_arg):
+def way(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    think_same_woman_above_government('early_eye')
+    eye('part')
