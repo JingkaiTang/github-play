@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def call_other_work(str_arg):
-    make_child(str_arg)
-    print('great_government_or_company')
+def do_woman_from_own_place(str_arg):
+    public_place_or_first_day(str_arg)
+    print('different_number')
 
-def make_child(str_arg):
+def public_place_or_first_day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    call_other_work('other_work')
+    do_woman_from_own_place('early_part')
