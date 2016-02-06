@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def feel_large_person(str_arg):
-    thing(str_arg)
-    print('small_year_or_number')
+def same_work(str_arg):
+    small_year(str_arg)
+    print('know_able_group_on_next_hand')
 
-def thing(str_arg):
+def small_year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    feel_large_person('case')
+    same_work('call_point')
