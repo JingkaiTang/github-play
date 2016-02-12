@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def time(str_arg):
-    look_few_point_from_last_hand(str_arg)
+def little_part_or_man(str_arg):
+    person_and_day(str_arg)
     print('week')
 
-def look_few_point_from_last_hand(str_arg):
+def person_and_day(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    time('way')
+    little_part_or_man('fact')
