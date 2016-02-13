@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def company(str_arg):
-    know_little_thing(str_arg)
-    print('know_new_part_about_own_thing')
+def case_or_little_man(str_arg):
+    find_bad_government(str_arg)
+    print('problem_and_different_fact')
 
-def know_little_thing(str_arg):
+def find_bad_government(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    company('work')
+    case_or_little_man('good_work_and_child')
