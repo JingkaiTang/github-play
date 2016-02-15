@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def place_and_place(str_arg):
-    day(str_arg)
-    print('place')
+def great_hand(str_arg):
+    place_and_world(str_arg)
+    print('company')
 
-def day(str_arg):
+def place_and_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    place_and_place('man')
+    great_hand('public_eye')
