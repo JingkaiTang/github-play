@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def eye(str_arg):
-    way(str_arg)
-    print('right_problem')
+def day(str_arg):
+    hand(str_arg)
+    print('call_fact')
 
-def way(str_arg):
+def hand(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    eye('part')
+    day('few_fact')
