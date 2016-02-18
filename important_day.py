@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def thing_and_man(str_arg):
-    company(str_arg)
-    print('group')
+def public_hand(str_arg):
+    fact(str_arg)
+    print('high_company')
 
-def company(str_arg):
+def fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    thing_and_man('thing')
+    public_hand('other_year_and_little_work')
