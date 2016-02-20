@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def first_hand(str_arg):
-    big_life(str_arg)
-    print('right_time_and_government')
+def know_first_part(str_arg):
+    work(str_arg)
+    print('woman_and_child')
 
-def big_life(str_arg):
+def work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    first_hand('group')
+    know_first_part('week_and_number')

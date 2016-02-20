@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def take_person_after_good_woman(str_arg):
-    next_fact(str_arg)
-    print('early_fact_and_old_place')
+def ask_child_of_child(str_arg):
+    tell_thing_up_place(str_arg)
+    print('think_little_place_after_year')
 
-def next_fact(str_arg):
+def tell_thing_up_place(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    take_person_after_good_woman('company_and_company')
+    ask_child_of_child('government')
