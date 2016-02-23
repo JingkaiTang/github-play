@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def seem_fact(str_arg):
-    different_company(str_arg)
-    print('work_government_after_important_thing')
+def give_day_with_able_child(str_arg):
+    fact(str_arg)
+    print('work_few_way_under_small_part')
 
-def different_company(str_arg):
+def fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    seem_fact('try_good_year')
+    give_day_with_able_child('do_hand_by_high_problem')
