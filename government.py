@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def large_government_or_different_eye(str_arg):
-    child_or_public_fact(str_arg)
-    print('life_or_time')
+def say_first_thing_by_good_person(str_arg):
+    point_and_life(str_arg)
+    print('public_world')
 
-def child_or_public_fact(str_arg):
+def point_and_life(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    large_government_or_different_eye('woman')
+    say_first_thing_by_good_person('different_life_and_number')
