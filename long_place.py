@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def life_and_group(str_arg):
-    try_bad_woman(str_arg)
-    print('old_week')
+def public_week(str_arg):
+    be_place_on_public_number(str_arg)
+    print('work_big_company')
 
-def try_bad_woman(str_arg):
+def be_place_on_public_number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    life_and_group('new_number_or_same_day')
+    public_week('try_important_case_about_small_way')
