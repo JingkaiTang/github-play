@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def man_or_important_eye(str_arg):
-    new_company(str_arg)
-    print('get_different_world_in_thing')
+def look_first_point_with_able_life(str_arg):
+    last_week(str_arg)
+    print('fact')
 
-def new_company(str_arg):
+def last_week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    man_or_important_eye('feel_other_company')
+    look_first_point_with_able_life('last_hand')
