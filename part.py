@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def ask_child_of_child(str_arg):
-    tell_thing_up_place(str_arg)
-    print('think_little_place_after_year')
+def old_time(str_arg):
+    give_different_eye(str_arg)
+    print('place')
 
-def tell_thing_up_place(str_arg):
+def give_different_eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    ask_child_of_child('government')
+    old_time('thing_and_time')
