@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def try_week_about_way(str_arg):
-    try_time_to_number(str_arg)
-    print('go_world')
+def new_point_or_government(str_arg):
+    time_or_early_group(str_arg)
+    print('different_woman_and_problem')
 
-def try_time_to_number(str_arg):
+def time_or_early_group(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    try_week_about_way('know_man_for_thing')
+    new_point_or_government('point_and_next_week')
