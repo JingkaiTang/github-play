@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def first_day_and_eye(str_arg):
-    year(str_arg)
-    print('see_able_government')
+def next_thing(str_arg):
+    company(str_arg)
+    print('government')
 
-def year(str_arg):
+def company(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    first_day_and_eye('important_week')
+    next_thing('next_person_and_different_year')
