@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def big_way(str_arg):
-    old_work(str_arg)
-    print('life')
+def call_eye(str_arg):
+    different_man(str_arg)
+    print('see_government_for_important_way')
 
-def old_work(str_arg):
+def different_man(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    big_way('world')
+    call_eye('have_first_case')
