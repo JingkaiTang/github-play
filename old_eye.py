@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def leave_woman_in_same_government(str_arg):
-    world_and_large_child(str_arg)
-    print('group')
+def feel_next_child(str_arg):
+    place_and_child(str_arg)
+    print('find_bad_day')
 
-def world_and_large_child(str_arg):
+def place_and_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    leave_woman_in_same_government('use_number_of_other_life')
+    feel_next_child('thing_and_small_case')
