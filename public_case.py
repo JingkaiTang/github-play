@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def know_first_part(str_arg):
-    work(str_arg)
-    print('woman_and_child')
+def group_and_woman(str_arg):
+    same_way(str_arg)
+    print('work')
 
-def work(str_arg):
+def same_way(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    know_first_part('week_and_number')
+    group_and_woman('woman')
