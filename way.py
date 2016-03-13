@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def group(str_arg):
-    feel_next_work(str_arg)
-    print('hand_or_problem')
+def important_work(str_arg):
+    tell_other_way(str_arg)
+    print('first_week')
 
-def feel_next_work(str_arg):
+def tell_other_way(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    group('long_child')
+    important_work('way')
