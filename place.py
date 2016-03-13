@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def person(str_arg):
-    do_great_group_at_day(str_arg)
-    print('last_year')
+def bad_man_and_long_fact(str_arg):
+    last_thing(str_arg)
+    print('same_group')
 
-def do_great_group_at_day(str_arg):
+def last_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    person('old_year')
+    bad_man_and_long_fact('part')
