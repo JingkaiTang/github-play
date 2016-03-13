@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def problem(str_arg):
-    new_problem(str_arg)
-    print('early_problem')
+def right_day(str_arg):
+    next_part(str_arg)
+    print('own_life_and_little_day')
 
-def new_problem(str_arg):
+def next_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    problem('small_man')
+    right_day('place_and_problem')
