@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def say_first_thing_by_good_person(str_arg):
-    point_and_life(str_arg)
-    print('public_world')
+def know_number_with_new_hand(str_arg):
+    get_year_into_life(str_arg)
+    print('good_hand')
 
-def point_and_life(str_arg):
+def get_year_into_life(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    say_first_thing_by_good_person('different_life_and_number')
+    know_number_with_new_hand('company')
