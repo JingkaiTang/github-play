@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def good_thing_and_week(str_arg):
-    company_or_long_group(str_arg)
-    print('old_day')
+def company(str_arg):
+    first_person(str_arg)
+    print('early_eye_and_way')
 
-def company_or_long_group(str_arg):
+def first_person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    good_thing_and_week('know_public_day_from_fact')
+    company('work_and_high_problem')
