@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def great_hand(str_arg):
-    place_and_world(str_arg)
-    print('company')
+def tell_way(str_arg):
+    part_or_week(str_arg)
+    print('try_large_place')
 
-def place_and_world(str_arg):
+def part_or_week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    great_hand('public_eye')
+    tell_way('bad_way_or_own_day')
