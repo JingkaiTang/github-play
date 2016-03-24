@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def little_part_or_man(str_arg):
-    person_and_day(str_arg)
-    print('week')
+def woman_and_few_government(str_arg):
+    call_small_point_on_different_number(str_arg)
+    print('say_child')
 
-def person_and_day(str_arg):
+def call_small_point_on_different_number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    little_part_or_man('fact')
+    woman_and_few_government('great_fact')
