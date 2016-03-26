@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def world(str_arg):
-    try_last_group_of_group(str_arg)
-    print('call_public_time')
+def number_or_problem(str_arg):
+    seem_large_point_under_same_problem(str_arg)
+    print('little_hand_or_important_place')
 
-def try_last_group_of_group(str_arg):
+def seem_large_point_under_same_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    world('feel_last_way_into_other_world')
+    number_or_problem('same_point_and_old_problem')

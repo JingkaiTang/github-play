@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def new_way(str_arg):
-    last_world_and_child(str_arg)
-    print('public_way')
+def bad_eye(str_arg):
+    have_big_number_beneath_different_work(str_arg)
+    print('go_good_place')
 
-def last_world_and_child(str_arg):
+def have_big_number_beneath_different_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    new_way('way_and_man')
+    bad_eye('able_thing_or_woman')
