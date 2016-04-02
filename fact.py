@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def different_week(str_arg):
-    feel_right_fact_on_time(str_arg)
-    print('thing')
+def early_world(str_arg):
+    problem_or_fact(str_arg)
+    print('good_child')
 
-def feel_right_fact_on_time(str_arg):
+def problem_or_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    different_week('work')
+    early_world('few_hand')
