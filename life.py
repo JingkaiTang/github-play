@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def able_work(str_arg):
-    few_fact(str_arg)
-    print('do_government')
+def place(str_arg):
+    eye(str_arg)
+    print('go_first_time_under_good_number')
 
-def few_fact(str_arg):
+def eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    able_work('first_time')
+    place('right_person')
