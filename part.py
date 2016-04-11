@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def old_time(str_arg):
-    give_different_eye(str_arg)
-    print('place')
+def say_man(str_arg):
+    woman_and_government(str_arg)
+    print('day')
 
-def give_different_eye(str_arg):
+def woman_and_government(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    old_time('thing_and_time')
+    say_man('see_big_point')
