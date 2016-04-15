@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def way(str_arg):
-    old_company(str_arg)
-    print('fact_and_eye')
+def day_or_fact(str_arg):
+    eye(str_arg)
+    print('company')
 
-def old_company(str_arg):
+def eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    way('different_day')
+    day_or_fact('be_little_woman')
