@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def know_number_with_new_hand(str_arg):
-    get_year_into_life(str_arg)
-    print('good_hand')
+def same_eye(str_arg):
+    eye(str_arg)
+    print('hand')
 
-def get_year_into_life(str_arg):
+def eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    know_number_with_new_hand('company')
+    same_eye('have_high_man')
