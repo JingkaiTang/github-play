@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def same_eye(str_arg):
-    eye(str_arg)
-    print('hand')
+def come_different_company(str_arg):
+    place(str_arg)
+    print('seem_point_at_able_way')
 
-def eye(str_arg):
+def place(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    same_eye('have_high_man')
+    come_different_company('week_and_company')
