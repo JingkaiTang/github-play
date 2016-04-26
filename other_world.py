@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def new_time_and_high_person(str_arg):
-    few_fact(str_arg)
-    print('point_and_world')
+def day_or_right_week(str_arg):
+    new_thing(str_arg)
+    print('woman_and_high_part')
 
-def few_fact(str_arg):
+def new_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    new_time_and_high_person('right_way')
+    day_or_right_week('little_life_and_last_way')
