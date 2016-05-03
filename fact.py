@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def early_world(str_arg):
-    problem_or_fact(str_arg)
-    print('good_child')
+def world(str_arg):
+    year_or_small_person(str_arg)
+    print('own_day_and_year')
 
-def problem_or_fact(str_arg):
+def year_or_small_person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    early_world('few_hand')
+    world('child_or_thing')
