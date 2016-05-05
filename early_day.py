@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def time(str_arg):
-    be_life_in_large_way(str_arg)
-    print('big_week')
+def able_government(str_arg):
+    know_bad_place_under_company(str_arg)
+    print('government')
 
-def be_life_in_large_way(str_arg):
+def know_bad_place_under_company(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    time('bad_day_or_eye')
+    able_government('man')
