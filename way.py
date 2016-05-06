@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def important_work(str_arg):
-    tell_other_way(str_arg)
-    print('first_week')
+def find_right_child(str_arg):
+    number(str_arg)
+    print('good_man_and_bad_eye')
 
-def tell_other_way(str_arg):
+def number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    important_work('way')
+    find_right_child('fact')
