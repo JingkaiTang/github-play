@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def place(str_arg):
-    eye(str_arg)
-    print('go_first_time_under_good_number')
+def want_able_eye(str_arg):
+    child(str_arg)
+    print('few_number')
 
-def eye(str_arg):
+def child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    place('right_person')
+    want_able_eye('government_and_time')
