@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def bad_man_and_long_fact(str_arg):
-    last_thing(str_arg)
-    print('same_group')
+def try_early_part_about_day(str_arg):
+    able_world(str_arg)
+    print('use_important_way')
 
-def last_thing(str_arg):
+def able_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    bad_man_and_long_fact('part')
+    try_early_part_about_day('ask_important_place_to_large_child')
