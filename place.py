@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def try_early_part_about_day(str_arg):
-    able_world(str_arg)
-    print('use_important_way')
+def large_day(str_arg):
+    old_person(str_arg)
+    print('government_or_able_way')
 
-def able_world(str_arg):
+def old_person(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    try_early_part_about_day('ask_important_place_to_large_child')
+    large_day('old_thing')
