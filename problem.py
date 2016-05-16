@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def day(str_arg):
-    thing(str_arg)
-    print('young_life_or_right_company')
+def work_and_big_person(str_arg):
+    point_or_other_work(str_arg)
+    print('bad_problem')
 
-def thing(str_arg):
+def point_or_other_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    day('man')
+    work_and_big_person('great_point')
