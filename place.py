@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def large_day(str_arg):
-    old_person(str_arg)
-    print('government_or_able_way')
+def bad_hand_or_few_person(str_arg):
+    new_place_or_fact(str_arg)
+    print('find_life')
 
-def old_person(str_arg):
+def new_place_or_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    large_day('old_thing')
+    bad_hand_or_few_person('life_and_good_place')
