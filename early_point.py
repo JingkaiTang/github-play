@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def way(str_arg):
+def man_or_next_woman(str_arg):
     case(str_arg)
-    print('public_woman')
+    print('great_company')
 
 def case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    way('woman_and_last_week')
+    man_or_next_woman('try_problem_over_point')
