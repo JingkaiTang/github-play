@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def work(str_arg):
-    use_important_thing(str_arg)
-    print('new_government')
+def do_bad_case_in_own_place(str_arg):
+    child_and_child(str_arg)
+    print('make_public_day')
 
-def use_important_thing(str_arg):
+def child_and_child(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    work('work')
+    do_bad_case_in_own_place('number')
