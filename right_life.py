@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def say_case_over_company(str_arg):
-    know_right_week_of_place(str_arg)
-    print('right_man')
+def life_or_little_time(str_arg):
+    hand(str_arg)
+    print('work_bad_part')
 
-def know_right_week_of_place(str_arg):
+def hand(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    say_case_over_company('new_fact')
+    life_or_little_time('week_and_bad_fact')
