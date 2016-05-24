@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def child(str_arg):
-    take_able_number(str_arg)
-    print('look_next_work')
+def public_work_or_great_place(str_arg):
+    little_point_and_work(str_arg)
+    print('company')
 
-def take_able_number(str_arg):
+def little_point_and_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    child('other_man_or_woman')
+    public_work_or_great_place('able_thing')
