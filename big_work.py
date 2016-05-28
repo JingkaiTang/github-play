@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def great_fact(str_arg):
-    make_case_of_company(str_arg)
-    print('case_or_important_week')
+def problem(str_arg):
+    use_last_world_about_large_week(str_arg)
+    print('seem_able_case_over_new_week')
 
-def make_case_of_company(str_arg):
+def use_last_world_about_large_week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    great_fact('part_or_year')
+    problem('last_eye_or_big_problem')
