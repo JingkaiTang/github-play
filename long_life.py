@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def person_and_next_world(str_arg):
-    way(str_arg)
-    print('woman')
+def thing_and_other_woman(str_arg):
+    important_way(str_arg)
+    print('work_early_case_after_big_case')
 
-def way(str_arg):
+def important_way(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    person_and_next_world('go_public_government_at_good_year')
+    thing_and_other_woman('child')
