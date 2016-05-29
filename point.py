@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def large_man_and_other_group(str_arg):
-    person_or_government(str_arg)
-    print('work')
+def big_way(str_arg):
+    seem_young_case_of_last_time(str_arg)
+    print('try_place')
 
-def person_or_government(str_arg):
+def seem_young_case_of_last_time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    large_man_and_other_group('week_and_world')
+    big_way('able_day')
