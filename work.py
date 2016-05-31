@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def place_or_time(str_arg):
-    day(str_arg)
-    print('want_way')
+def first_year_or_woman(str_arg):
+    say_new_part_from_woman(str_arg)
+    print('fact_and_important_woman')
 
-def day(str_arg):
+def say_new_part_from_woman(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    place_or_time('young_group')
+    first_year_or_woman('point')
