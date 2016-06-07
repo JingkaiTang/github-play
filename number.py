@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def other_fact_and_new_place(str_arg):
-    new_thing(str_arg)
-    print('high_part')
+def day(str_arg):
+    great_case(str_arg)
+    print('use_work_of_young_work')
 
-def new_thing(str_arg):
+def great_case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    other_fact_and_new_place('work_and_eye')
+    day('know_first_man_above_way')
