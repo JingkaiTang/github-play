@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def try_life_in_point(str_arg):
-    be_man(str_arg)
-    print('big_case')
+def look_great_company(str_arg):
+    first_number(str_arg)
+    print('large_man')
 
-def be_man(str_arg):
+def first_number(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    try_life_in_point('hand')
+    look_great_company('know_few_government')
