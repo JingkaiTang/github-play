@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def big_way(str_arg):
-    seem_young_case_of_last_time(str_arg)
-    print('try_place')
+def thing(str_arg):
+    take_hand_on_life(str_arg)
+    print('fact')
 
-def seem_young_case_of_last_time(str_arg):
+def take_hand_on_life(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    big_way('able_day')
+    thing('go_public_way_up_time')
