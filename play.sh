@@ -1,3 +1,3 @@
 #! /usr/bin/bash
-.player/github-player.py "2014-2-2 22:22:22" "2014-3-2 22:22:22" 5
+.player/github-player.py "2014-2-3 22:22:22" "2016-6-10 15:22:22" 10
 

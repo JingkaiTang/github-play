@@ -37,5 +37,5 @@ def mod_date(dt):
 
 # mkdir
 def mkdir(dir_name):
-    cmd = cmd_wrap('mkdir -p', dir_name)
-    
+    if dir_name and (not os.path.exists(dir_name)):
+        os.makedirs(dir_name)

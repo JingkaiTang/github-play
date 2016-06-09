@@ -5,8 +5,11 @@ import random
 import datetime
 import sys
 from data_parser import data_parse
+from datetime_picker import dt_pick
+from sys_util import git, mod_date, mkdir
 
 MAX_FILE_DEPTH = 5
+MAX_FILE_NUM = 4
 words_dict = data_parse()
 rc = lambda l: lambda: random.choice(l)
 rc_words = lambda key: rc(words_dict[key])
@@ -32,7 +35,7 @@ def {f1}(str_arg):
 
 if __name__ == '__main__':
     {f0}('{s1}')
-'''.fromat(f0=randstr(), f1=randstr(), s0=randstr(), s1=randstr())
+'''.format(f0=randstr(), f1=randstr(), s0=randstr(), s1=randstr())
 
 
 def write2file(raw_code, file_name):
@@ -87,15 +90,24 @@ def randfile():
     return fn
 
 
+def randfl():
+    return [randfile() for i in range(random.randint(1, MAX_FILE_NUM))]
+
+
+def play(dtl):
+    for dt in dtl:
+        mod_date(dt)
+        fl = randfl()
+        for f in fl:
+            mkdir(os.path.dirname(f))
+            write2file(gen_code(), f)
+        git(fl, randmsg(fl))
+
+
 if __name__ == '__main__':
-    #write2file(gen_code(), 'test.py')
-    #git(['test.py'], 'mix: for test, again')
-    arg_dt_from = sys.argv[1]
-    arg_dt_to = sys.argv[2]
-    arg_frq = sys.argv[3]
-    print(randmsg(['test.py', 'hello.py']))
-    print(randstr())
-    print(randstr())
-    print(randfile())
-    print(randfile())
-    print(randfile())
+    dt_from = sys.argv[1]
+    dt_to = sys.argv[2]
+    frq = int(sys.argv[3])
+
+    dt_list = dt_pick(dt_from, dt_to, frq)
+    play(dt_list)
