@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def thing(str_arg):
-    take_hand_on_life(str_arg)
-    print('fact')
+def next_work(str_arg):
+    last_thing_and_long_world(str_arg)
+    print('place_or_hand')
 
-def take_hand_on_life(str_arg):
+def last_thing_and_long_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    thing('go_public_way_up_time')
+    next_work('tell_government')
