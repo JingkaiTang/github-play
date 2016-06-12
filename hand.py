@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def eye(str_arg):
-    great_company(str_arg)
-    print('go_important_time_by_life')
+def world_or_eye(str_arg):
+    able_fact(str_arg)
+    print('important_world')
 
-def great_company(str_arg):
+def able_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    eye('last_week_and_man')
+    world_or_eye('take_great_woman_in_number')
