@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def next_way(str_arg):
-    think_time(str_arg)
-    print('hand')
+def young_child(str_arg):
+    point(str_arg)
+    print('high_case')
 
-def think_time(str_arg):
+def point(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    next_way('tell_week')
+    young_child('give_great_part')
