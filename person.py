@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def own_life(str_arg):
-    next_man_and_same_company(str_arg)
-    print('hand')
+def come_life_on_child(str_arg):
+    year(str_arg)
+    print('old_hand_and_week')
 
-def next_man_and_same_company(str_arg):
+def year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    own_life('own_person_and_new_world')
+    come_life_on_child('think_great_problem')
