@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def bad_part(str_arg):
-    child(str_arg)
-    print('first_world')
+def use_week_above_company(str_arg):
+    other_problem_or_government(str_arg)
+    print('bad_way_and_good_time')
 
-def child(str_arg):
+def other_problem_or_government(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    bad_part('think_life')
+    use_week_above_company('last_government')
