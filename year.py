@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def do_bad_case_in_own_place(str_arg):
-    child_and_child(str_arg)
-    print('make_public_day')
+def take_hand_on_eye(str_arg):
+    little_part(str_arg)
+    print('use_different_problem_with_new_fact')
 
-def child_and_child(str_arg):
+def little_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    do_bad_case_in_own_place('number')
+    take_hand_on_eye('leave_person_on_life')
