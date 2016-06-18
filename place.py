@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def bad_hand_or_few_person(str_arg):
-    new_place_or_fact(str_arg)
-    print('find_life')
+def seem_fact(str_arg):
+    important_work(str_arg)
+    print('other_group_or_last_problem')
 
-def new_place_or_fact(str_arg):
+def important_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    bad_hand_or_few_person('life_and_good_place')
+    seem_fact('come_life_to_other_woman')
