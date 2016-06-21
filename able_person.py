@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def bad_hand(str_arg):
-    give_government_from_company(str_arg)
-    print('work_and_person')
+def use_year_over_public_problem(str_arg):
+    have_group(str_arg)
+    print('get_woman')
 
-def give_government_from_company(str_arg):
+def have_group(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    bad_hand('thing')
+    use_year_over_public_problem('small_group_and_last_place')
