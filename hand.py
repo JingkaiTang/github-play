@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def world_or_eye(str_arg):
-    able_fact(str_arg)
-    print('important_world')
+def bad_point(str_arg):
+    find_right_part(str_arg)
+    print('important_point_or_old_part')
 
-def able_fact(str_arg):
+def find_right_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    world_or_eye('take_great_woman_in_number')
+    bad_point('point')
