@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def take_hand_on_eye(str_arg):
-    little_part(str_arg)
-    print('use_different_problem_with_new_fact')
+def day(str_arg):
+    first_company_or_next_woman(str_arg)
+    print('week_and_large_work')
 
-def little_part(str_arg):
+def first_company_or_next_woman(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    take_hand_on_eye('leave_person_on_life')
+    day('say_work')
