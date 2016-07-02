@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def eye(str_arg):
-    thing_and_thing(str_arg)
-    print('case_and_group')
+def first_group(str_arg):
+    time(str_arg)
+    print('world_and_fact')
 
-def thing_and_thing(str_arg):
+def time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    eye('think_government')
+    first_group('seem_last_place_with_point')
