@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def day(str_arg):
-    great_case(str_arg)
-    print('use_work_of_young_work')
+def big_time(str_arg):
+    new_world(str_arg)
+    print('big_point')
 
-def great_case(str_arg):
+def new_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    day('know_first_man_above_way')
+    big_time('be_young_work_about_next_year')
