@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def child(str_arg):
-    child_or_place(str_arg)
-    print('woman_and_day')
+def leave_thing_over_other_day(str_arg):
+    child_or_first_time(str_arg)
+    print('try_different_world_in_way')
 
-def child_or_place(str_arg):
+def child_or_first_time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    child('get_small_eye')
+    leave_thing_over_other_day('feel_few_man')
