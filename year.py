@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def day(str_arg):
-    first_company_or_next_woman(str_arg)
-    print('week_and_large_work')
+def problem(str_arg):
+    part_or_place(str_arg)
+    print('know_same_world_at_time')
 
-def first_company_or_next_woman(str_arg):
+def part_or_place(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    day('say_work')
+    problem('world')
