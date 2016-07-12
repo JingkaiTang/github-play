@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def new_hand_and_place(str_arg):
-    go_year(str_arg)
-    print('woman')
+def use_problem(str_arg):
+    case_or_small_thing(str_arg)
+    print('public_child')
 
-def go_year(str_arg):
+def case_or_small_thing(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    new_hand_and_place('early_work')
+    use_problem('fact')
