@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def next_work(str_arg):
-    last_thing_and_long_world(str_arg)
-    print('place_or_hand')
+def be_different_year_above_life(str_arg):
+    long_place_and_eye(str_arg)
+    print('man')
 
-def last_thing_and_long_world(str_arg):
+def long_place_and_eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    next_work('tell_government')
+    be_different_year_above_life('year_and_own_work')
