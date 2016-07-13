@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def year_or_same_point(str_arg):
-    think_good_fact_in_life(str_arg)
-    print('day_and_few_case')
+def seem_able_time(str_arg):
+    fact_or_own_fact(str_arg)
+    print('life')
 
-def think_good_fact_in_life(str_arg):
+def fact_or_own_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    year_or_same_point('little_eye')
+    seem_able_time('young_way')
