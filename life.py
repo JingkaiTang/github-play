@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def want_able_eye(str_arg):
-    child(str_arg)
-    print('few_number')
+def woman(str_arg):
+    high_work(str_arg)
+    print('give_time')
 
-def child(str_arg):
+def high_work(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    want_able_eye('government_and_time')
+    woman('person')
