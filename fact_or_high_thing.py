@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def work(str_arg):
-    part(str_arg)
-    print('company')
+def first_year_or_last_life(str_arg):
+    long_fact(str_arg)
+    print('time')
 
-def part(str_arg):
+def long_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    work('long_work')
+    first_year_or_last_life('be_company')
