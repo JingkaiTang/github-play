@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def company_and_next_thing(str_arg):
-    public_case_and_world(str_arg)
-    print('fact')
+def try_few_company_after_other_group(str_arg):
+    feel_other_group_after_case(str_arg)
+    print('man')
 
-def public_case_and_world(str_arg):
+def feel_other_group_after_case(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    company_and_next_thing('right_thing')
+    try_few_company_after_other_group('use_person')
