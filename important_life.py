@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def little_woman(str_arg):
-    great_person_and_group(str_arg)
-    print('able_thing')
+def fact(str_arg):
+    give_company_into_large_problem(str_arg)
+    print('small_part')
 
-def great_person_and_group(str_arg):
+def give_company_into_large_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    little_woman('large_company_or_great_way')
+    fact('bad_thing')
