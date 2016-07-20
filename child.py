@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def place(str_arg):
-    day_or_other_work(str_arg)
-    print('number_or_long_life')
+def eye(str_arg):
+    try_few_world(str_arg)
+    print('call_other_place')
 
-def day_or_other_work(str_arg):
+def try_few_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    place('early_point_and_great_eye')
+    eye('small_year_or_point')
