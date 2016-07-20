@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def big_time(str_arg):
-    new_world(str_arg)
-    print('big_point')
+def time_or_problem(str_arg):
+    great_man_and_other_fact(str_arg)
+    print('little_woman_and_same_place')
 
-def new_world(str_arg):
+def great_man_and_other_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    big_time('be_young_work_about_next_year')
+    time_or_problem('part')
