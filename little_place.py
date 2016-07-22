@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def come_right_life_of_group(str_arg):
-    child(str_arg)
-    print('go_right_day_above_fact')
+def leave_woman_into_company(str_arg):
+    great_part(str_arg)
+    print('think_long_world_into_public_problem')
 
-def child(str_arg):
+def great_part(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    come_right_life_of_group('number')
+    leave_woman_into_company('other_child_and_fact')
