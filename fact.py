@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def world(str_arg):
-    year_or_small_person(str_arg)
-    print('own_day_and_year')
+def think_year(str_arg):
+    ask_other_group(str_arg)
+    print('take_small_hand_up_hand')
 
-def year_or_small_person(str_arg):
+def ask_other_group(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    world('child_or_thing')
+    think_year('tell_fact_above_eye')
