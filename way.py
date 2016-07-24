@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def find_right_child(str_arg):
-    number(str_arg)
-    print('good_man_and_bad_eye')
+def old_case(str_arg):
+    have_case_beneath_right_government(str_arg)
+    print('point')
 
-def number(str_arg):
+def have_case_beneath_right_government(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    find_right_child('fact')
+    old_case('person')
