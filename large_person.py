@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def next_problem(str_arg):
-    early_man(str_arg)
-    print('company')
+def little_work(str_arg):
+    see_work_over_week(str_arg)
+    print('high_number')
 
-def early_man(str_arg):
+def see_work_over_week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    next_problem('small_point')
+    little_work('own_company')
