@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def use_problem(str_arg):
-    case_or_small_thing(str_arg)
-    print('public_child')
+def man_or_hand(str_arg):
+    week(str_arg)
+    print('point_or_last_eye')
 
-def case_or_small_thing(str_arg):
+def week(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    use_problem('fact')
+    man_or_hand('right_case')
