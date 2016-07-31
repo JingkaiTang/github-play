@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def right_child(str_arg):
-    good_time(str_arg)
-    print('child')
+def seem_big_person(str_arg):
+    case_and_own_world(str_arg)
+    print('time_and_early_woman')
 
-def good_time(str_arg):
+def case_and_own_world(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    right_child('able_day')
+    seem_big_person('other_government')
