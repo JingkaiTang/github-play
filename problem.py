@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def work_and_big_person(str_arg):
-    point_or_other_work(str_arg)
-    print('bad_problem')
+def give_small_company(str_arg):
+    long_year(str_arg)
+    print('want_time_at_child')
 
-def point_or_other_work(str_arg):
+def long_year(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    work_and_big_person('great_point')
+    give_small_company('person')
