@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def think_year(str_arg):
-    ask_other_group(str_arg)
-    print('take_small_hand_up_hand')
+def hand_and_bad_group(str_arg):
+    group_and_bad_company(str_arg)
+    print('important_hand')
 
-def ask_other_group(str_arg):
+def group_and_bad_company(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    think_year('tell_fact_above_eye')
+    hand_and_bad_group('call_able_man_beneath_last_eye')
