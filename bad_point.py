@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def ask_time(str_arg):
-    government(str_arg)
-    print('see_man_into_work')
+def hand_or_own_work(str_arg):
+    be_group_at_next_man(str_arg)
+    print('call_place_for_group')
 
-def government(str_arg):
+def be_group_at_next_man(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    ask_time('man')
+    hand_or_own_work('do_few_thing_on_person')
