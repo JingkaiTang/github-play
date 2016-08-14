@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def give_small_company(str_arg):
-    long_year(str_arg)
-    print('want_time_at_child')
+def long_hand(str_arg):
+    year_or_new_fact(str_arg)
+    print('problem_and_child')
 
-def long_year(str_arg):
+def year_or_new_fact(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    give_small_company('person')
+    long_hand('seem_great_eye')
