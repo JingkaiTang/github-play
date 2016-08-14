@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def long_hand(str_arg):
-    year_or_new_fact(str_arg)
-    print('problem_and_child')
+def do_person_after_few_work(str_arg):
+    see_public_point(str_arg)
+    print('able_year_and_fact')
 
-def year_or_new_fact(str_arg):
+def see_public_point(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    long_hand('seem_great_eye')
+    do_person_after_few_work('other_case')
