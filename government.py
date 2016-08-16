@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def man_or_hand(str_arg):
-    week(str_arg)
-    print('point_or_last_eye')
+def want_life_above_same_work(str_arg):
+    young_point(str_arg)
+    print('able_point_and_early_place')
 
-def week(str_arg):
+def young_point(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    man_or_hand('right_case')
+    want_life_above_same_work('look_problem_into_own_thing')
