@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def eye(str_arg):
-    try_few_world(str_arg)
-    print('call_other_place')
+def week(str_arg):
+    new_group_or_eye(str_arg)
+    print('problem_or_year')
 
-def try_few_world(str_arg):
+def new_group_or_eye(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    eye('small_year_or_point')
+    week('first_week')
