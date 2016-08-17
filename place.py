@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def last_work(str_arg):
-    right_company(str_arg)
-    print('fact_or_child')
+def first_group(str_arg):
+    able_day_or_time(str_arg)
+    print('right_part_or_woman')
 
-def right_company(str_arg):
+def able_day_or_time(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    last_work('life')
+    first_group('say_able_woman')
