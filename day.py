@@ -1,12 +1,12 @@
 
 #! /usr/bin/env python
 
-def high_way(str_arg):
-    number(str_arg)
-    print('year')
+def own_hand_and_day(str_arg):
+    give_problem(str_arg)
+    print('eye')
 
-def number(str_arg):
+def give_problem(str_arg):
     print(str_arg)
 
 if __name__ == '__main__':
-    high_way('try_way_on_woman')
+    own_hand_and_day('young_child')
